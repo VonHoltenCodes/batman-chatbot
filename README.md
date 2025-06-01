@@ -350,6 +350,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Made with ❤️ by [VonHoltenCodes](https://github.com/VonHoltenCodes)
 
+**In loving memory of Ryan Wasson, a true super hero** ⭐
+
 ---
 
 ```
