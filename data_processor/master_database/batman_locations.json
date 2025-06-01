@@ -1,0 +1,3162 @@
+[
+  {
+    "id": "location_1",
+    "name": "Ace_Chemical_Processing_Plant",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Ace_Chemical_Processing_Plant",
+    "description": "TheAce Chemical Processing Plant(often referred to as\"Ace Chemicals\") is a chemical plant inGotham City. Located next to theMonarch Playing Card Company, it is often used as a hideout for criminals who use chemical weapons, primarily theJoker. Various accounts point to the plant as the place where the Clown Prince of Crime began, often due to falling into one of its mixing vats.",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [],
+      "residents": [
+        "batman",
+        "bruce wayne",
+        "alfred",
+        "joker",
+        "riddler"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_2",
+    "name": "Amusement_Mile",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Amusement_Mile",
+    "description": "Amusement Mileis an amusement park inGotham Cityfound along the city's waterfront.",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [],
+      "residents": [
+        "batman",
+        "robin",
+        "joker",
+        "penguin",
+        "bane"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_3",
+    "name": "Arctic_World",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Arctic_World",
+    "description": "Arctic Worldwas a section at the abandonedOld Zoo. The underground pavilion served asPenguin's hideout. The exterior was adorned with a statue of a polar bear, and a skylight view of the massive cavernous exhibit. The waterways in the interior connected to large tunnels leading to theGothamsewer system.",
+    "category": "Film Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [
+        "underground"
+      ],
+      "residents": [
+        "batman",
+        "alfred",
+        "joker",
+        "penguin",
+        "catwoman"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_4",
+    "name": "Arkham_Asylum",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Arkham_Asylum",
+    "description": "TheElizabeth Arkham Asylum for the Criminally Insane, better known asArkham Asylum, is a psychiatric hospital north ofGotham City. It has featured prominently in the various continuities of the DC Multiverse. Depicted as a remote, labyrinthine stone facility, Arkham has housed many of Batman's most notorious foes, includingJoker,Riddler,Two-Face, and theScarecrow.Jeremiah Arkhamis the asylum's current director.",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [
+        "underground",
+        "vault"
+      ],
+      "residents": [
+        "batman",
+        "bruce wayne",
+        "robin",
+        "batgirl",
+        "joker",
+        "penguin",
+        "riddler",
+        "two-face",
+        "catwoman",
+        "bane"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_5",
+    "name": "Arkham_City",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Arkham_City",
+    "description": "The video gameBatman: Arkham Citytook place entirely in the new incarnation ofArkham Asylum,Arkham City(known asNorth Gothambefore the events of the game). A maximum security prison set in a walled-off district ofGotham City, Arkham City was located in Uptown Gotham with Amusement Mile, the Industrial District, Park Row, and the Bowery. After theJoker's takeover of the asylum which was thwarted by Batman, WardenQuincy Sharptook full credit for the Joker's defeat and was quickly elected as Mayor of Gotham.",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [
+        "vault"
+      ],
+      "residents": [
+        "batman",
+        "bruce wayne",
+        "robin",
+        "joker",
+        "penguin",
+        "riddler",
+        "two-face",
+        "catwoman",
+        "bane",
+        "commissioner gordon"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_6",
+    "name": "Avenue_X_at_Cicero",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Avenue_X_at_Cicero",
+    "description": "",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [],
+      "residents": [
+        "batman",
+        "joker"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_7",
+    "name": "Bat_Building",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Bat_Building",
+    "description": "TheBat Buildingis a memorial building commissioned by theGotham CityCouncil to honor their savior. a plaque uner aBatgargoyle reads 'named for Gotham's Fearless Caped Crusader'",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [],
+      "residents": [
+        "batman"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_8",
+    "name": "Batcave",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Batcave",
+    "description": "TheBatcaveis the secret headquarters ofBatmanand the extendedBat-Family, consisting of a series of subterranean caves beneathWayne Manor. The most prominent tool in the Batcave is its famousCentral Computer Console, used daily by Batman to research and solve crimes.",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [
+        "secret entrance",
+        "underground",
+        "computer system",
+        "laboratory",
+        "hangar"
+      ],
+      "residents": [
+        "batman",
+        "bruce wayne",
+        "alfred",
+        "robin",
+        "batgirl",
+        "nightwing",
+        "joker",
+        "penguin",
+        "riddler",
+        "two-face"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_9",
+    "name": "Batcave_(Arkham_Island)",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Batcave_(Arkham_Island)",
+    "description": "A major auxiliaryBatcavewas built onArkham Island, established just in case of a mass breakout at the facility's holding cells, which eventually occurred.",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [],
+      "residents": [
+        "batman",
+        "joker"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_10",
+    "name": "Batcave_(Arkhamverse)",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Batcave_(Arkhamverse)",
+    "description": "TheBatcavewas an underground cave system that was located belowWayne Manorand was home toBatman.",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [
+        "underground",
+        "cave system"
+      ],
+      "residents": [
+        "batman",
+        "bruce wayne",
+        "alfred",
+        "robin",
+        "nightwing",
+        "joker",
+        "riddler",
+        "bane",
+        "guards"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_11",
+    "name": "Batcave_(Columbia_serials)",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Batcave_(Columbia_serials)",
+    "description": "TheBatcaveis the underground headquarters ofBatmanandRobin, beneathWayne Manor. The entrance to the cave is through the Grandfather clock in Bruce's lounge room.",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [
+        "underground"
+      ],
+      "residents": [
+        "batman",
+        "robin"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_12",
+    "name": "Batcave_(Matsudaverse)",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Batcave_(Matsudaverse)",
+    "description": "The Batcave is located deep beneath Wayne Manor, and acts as The Batman's secret base of operations, holding all his equipment, vehicles, costumes and of course, The Batwave. Among the vast reaches of the cave include a trophy room, a gathering of souvenirs The Batman has collected since he began fighting crime, a lab and holding cells for anyone Batman feels is too dangerous to allow occupancy in Arkham or jail. The cave also has easy access to Wayne Manor. It includes acentral computer consoleand many relics on display from all the enemies that Batman defeats. There are many entrances toWayn...",
+    "category": "The Batman Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [
+        "trophy room"
+      ],
+      "residents": [
+        "batman",
+        "joker",
+        "penguin",
+        "riddler"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_13",
+    "name": "Bats_Cave",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Bats_Cave",
+    "description": "",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [
+        "underground"
+      ],
+      "residents": [
+        "batman"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_14",
+    "name": "Belle_Reve_Penitentiary",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Belle_Reve_Penitentiary",
+    "description": "Belle Reve Penitentiaryis a prison and sanatorium facility used to contain metahuman criminals.",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [],
+      "residents": [
+        "batman",
+        "nightwing",
+        "joker",
+        "penguin",
+        "riddler",
+        "prisoners",
+        "inmates",
+        "staff",
+        "guards"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_15",
+    "name": "Blackgate_Penitentiary",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Blackgate_Penitentiary",
+    "description": "Blackgate Penitentiaryis aGotham (State)prison traditionally located on a small island in the Gotham Bay.Batman: The Long Halloweensuggests that it was preceded by Gotham State Penitentiary, which appeared often in pre-Crisis comics.",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [],
+      "residents": [
+        "batman",
+        "bruce wayne",
+        "joker",
+        "penguin",
+        "two-face",
+        "catwoman",
+        "bane",
+        "commissioner gordon",
+        "prisoners",
+        "inmates"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_16",
+    "name": "Blackgate_Prison_(Arkhamverse)",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Blackgate_Prison_(Arkhamverse)",
+    "description": "Blackgate Prisonwas a key location in the story for the video game,Batman: Arkham Origins, as well as where the story of the video gameBatman: Arkham Origins Blackgatetook place. The prison was located on an island with five primary sectors: The Harbor to the east, the Industrial Sector, the Cell Blocks, the Administration Sector, and the Arkham Wing.",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [
+        "prison cells",
+        "elevator"
+      ],
+      "residents": [
+        "batman",
+        "joker",
+        "penguin",
+        "catwoman",
+        "bane",
+        "prisoners",
+        "inmates",
+        "guards"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_17",
+    "name": "Bl%C3%BCdhaven",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Bl%C3%BCdhaven",
+    "description": "Blüdhavenis a city usually depicted as being geographically close toGotham City, about a two-hour drive away. It is where the heroNightwingmainly operates.",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [
+        "underground",
+        "containment"
+      ],
+      "residents": [
+        "batman",
+        "robin",
+        "nightwing",
+        "inmates"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_18",
+    "name": "Brooklyn",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Brooklyn",
+    "description": "",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [],
+      "residents": [
+        "batman"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_19",
+    "name": "Burnley",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Burnley",
+    "description": "The Burnley district appears on the official map of Gotham City and is shown to be located on Gotham City's nothern island. It is bordered byCrime Alleyand the Bowery to the east.",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [],
+      "residents": [
+        "batman",
+        "joker"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_20",
+    "name": "Burnside",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Burnside",
+    "description": "Burnsideis aGotham Cityneighborhood located across theGotham River. In theNew 52,Barbara Gordonmoved there when she needed to take a break from Gotham. It first appeared in the 2014 comicBatgirl(Vol. 4) #35.",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [],
+      "residents": [
+        "batman",
+        "batgirl",
+        "joker",
+        "penguin",
+        "two-face",
+        "commissioner gordon"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_21",
+    "name": "Chicago",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Chicago",
+    "description": "Chicagois a midwestern city in the United States. It served as a filming location forGotham CityinBatman Begins,The Dark Knight,The Dark Knight Rises, andThe Batman. TheChicago Board of Trade Buildinghas often been used to representWayne Towerin live-action media, includingBatman Begins,Batwoman, andGotham Knights.",
+    "category": "Film Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [],
+      "residents": [
+        "batman",
+        "bruce wayne",
+        "batgirl",
+        "nightwing",
+        "riddler"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_22",
+    "name": "City_Hall_(Arkhamverse)",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/City_Hall_(Arkhamverse)",
+    "description": "Gotham City Hallis a town hall located inGotham City. It is where elected officials and authorities make decisions based on events in Gotham. City Hall has been rebuilt several times due to destruction from criminals. It is usually located near theWayne Enterprisesbuilding.",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [],
+      "residents": [
+        "batman",
+        "joker",
+        "two-face",
+        "inmates"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_23",
+    "name": "Cobblepot_Manor",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Cobblepot_Manor",
+    "description": "Cobblepot Manorwas the old mansion owned byTucker Cobblepot, somewhere nearGotham City. This is whereEsther Cobblepotgave birth toOswald Cobbplepot.",
+    "category": "Batman Returns Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [],
+      "residents": [
+        "batman",
+        "penguin"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_24",
+    "name": "Corto_Maltese",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Corto_Maltese",
+    "description": "The islands were mentioned to be the location of one of a number of Lexcorp '33.1' project labs that were located throughout the world.",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [
+        "laboratory"
+      ],
+      "residents": [
+        "batman",
+        "joker"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_25",
+    "name": "Crime_Alley",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Crime_Alley",
+    "description": "Park Row, later calledCrime Alley, is a historical landmark inGotham Cityand was rather infamous for being the location where Bruce Wayne's parents Thomas and Martha were murdered, which started off Bruce's career as Batman.",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [],
+      "residents": [
+        "batman",
+        "bruce wayne",
+        "two-face",
+        "catwoman"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_26",
+    "name": "Dinosaur_Island",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Dinosaur_Island",
+    "description": "",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [],
+      "residents": [
+        "batman",
+        "robin"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_27",
+    "name": "England",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/England",
+    "description": "",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [],
+      "residents": [
+        "batman",
+        "alfred"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_28",
+    "name": "Evanstown",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Evanstown",
+    "description": "Evanstown, also known asEvanston,[1]is a suburb ofGotham Cityand formally part ofSommerset Township. It is a located west of the city on the mainland and is mainly a middle-class community.[2]",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [],
+      "residents": [
+        "batman",
+        "robin"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_29",
+    "name": "Falcone%27s_Bar",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Falcone%27s_Bar",
+    "description": "Falcone's Barwas a bar inGotham Citythat served as the headquarters ofCarmine Falconeandhis thugs.",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [],
+      "residents": [
+        "bruce wayne"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_30",
+    "name": "Germany",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Germany",
+    "description": "",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [],
+      "residents": [
+        "batman"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_31",
+    "name": "Gotham_Botanical_Gardens",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Gotham_Botanical_Gardens",
+    "description": "Gotham Botanical Gardensis the botanical gardens inGotham City.",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [],
+      "residents": [
+        "batman",
+        "robin",
+        "batgirl"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_32",
+    "name": "Gotham_City",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Gotham_City",
+    "description": "Gotham Cityis the hometown ofBatmanand theBat-Family. Though it first appeared inDetective Comics#27, it was first identified byBill FingerinBatman#4(Winter 1940). Often depicted to be on theEast Seaboard of the United States, Gotham has changed depiction, including with the city geography and architecture. From the Bronze Age of Comics, Gotham's politics has often been depicted as having heavy ties to organized crime and corruption. Gotham itself has become a major location in the DC Universe, with many characters likeSuperman,Swamp Thing,Green Lanternsand theJLAvisiting the city on occasions...",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [
+        "underground"
+      ],
+      "residents": [
+        "batman",
+        "bruce wayne",
+        "alfred",
+        "robin",
+        "batgirl",
+        "nightwing",
+        "joker",
+        "penguin",
+        "riddler",
+        "two-face"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_33",
+    "name": "Gotham_City_Olympus",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Gotham_City_Olympus",
+    "description": "TheGotham City Olympuswas a nightclub owned by the criminalMaxie Zeus.",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [],
+      "residents": [
+        "batman",
+        "riddler",
+        "inmates"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_34",
+    "name": "Gotham_City_Police_Department",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Gotham_City_Police_Department",
+    "description": "TheGotham City Police Department, often referred to as theGCPD, is the police department ofGotham City. Aside from a handful of recurring characters, such asHarvey Bullock,Sarah Essen,Renee Montoya, andJames Gordon, the department has a well-deserved reputation for being extraordinarily brutal and corrupt. It has alternatively supported or opposedBatmanover the course of his vigilante career, and their complicated relationship often varied depending on contemporary Gotham politics and outlook of individual commissioners.",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [
+        "underground"
+      ],
+      "residents": [
+        "batman",
+        "bruce wayne",
+        "commissioner gordon",
+        "harvey bullock"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_35",
+    "name": "Gotham_City_Police_Headquarters",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Gotham_City_Police_Headquarters",
+    "description": "TheGotham City Police Headquarters(also referred to asGCPD HQ) is the base of operations for theGotham City Police Department. Located inOld Gotham, it is used as the main hub for the police and where the commissioner's office is located. TheBat-Signalis often equipped on the Headquarters' rooftops, allowing the GCPD to callBatmanto help them.",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [],
+      "residents": [
+        "batman",
+        "robin",
+        "joker",
+        "penguin",
+        "two-face",
+        "commissioner gordon"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_36",
+    "name": "Gotham_City_Subway",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Gotham_City_Subway",
+    "description": "TheGotham City Subwayis the public transport system consisting of various rail lines and underground tunnels. Stretching across the city, it is often used by the public of Gotham to travel underground. However, due to neglecgence and route changes, various stations and lines throughout Gotham have been abandoned. Gotham's criminals have also set up bases within the subway.",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [
+        "underground"
+      ],
+      "residents": [
+        "batman"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_37",
+    "name": "Gotham_General_Hospital",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Gotham_General_Hospital",
+    "description": "Gotham General Hospitalis the most prominent health care institution inGotham City.",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [],
+      "residents": [
+        "batman",
+        "alfred",
+        "joker",
+        "harvey bullock"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_38",
+    "name": "Gotham_Harbor",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Gotham_Harbor",
+    "description": "Gotham Harborwas a body of water that connectedGotham Cityto the Atlantic Ocean.",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [],
+      "residents": [
+        "batman",
+        "nightwing"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_39",
+    "name": "Gotham_Museum_of_Art",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Gotham_Museum_of_Art",
+    "description": "Gotham Museumis a multidisciplinary museum inGotham City.",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [
+        "underground"
+      ],
+      "residents": [
+        "batman",
+        "robin",
+        "penguin",
+        "catwoman"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_40",
+    "name": "Gotham_Observatory",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Gotham_Observatory",
+    "description": "TheGotham Observatoryis an astronomical research facility located on a hillside outside Gotham City.",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [],
+      "residents": [
+        "batman",
+        "robin",
+        "batgirl",
+        "joker",
+        "bane",
+        "staff"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_41",
+    "name": "Gotham_State_Penitentiary",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Gotham_State_Penitentiary",
+    "description": "Gotham State Penitentiaryis the prison located nearGotham City. It was often used to hold many ofBatman's enemies who were deemed legally sane. On bothEarth-TwoandEarth-One, the prison was often used as Gotham's main prison and correctional facility. However, the prison's usage has been taken up byBlackgate Penitentiaryafter the change over toNew Earth.",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [],
+      "residents": [
+        "batman",
+        "penguin",
+        "prisoners",
+        "inmates"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_42",
+    "name": "Gotham_University",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Gotham_University",
+    "description": "TheGotham Universitywas the main institution for higher education and research on Gotham City.",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [],
+      "residents": [
+        "batman",
+        "robin",
+        "batgirl",
+        "riddler",
+        "catwoman",
+        "inmates"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_43",
+    "name": "GothCorp",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/GothCorp",
+    "description": "GothCorp is one of the largest companies operating inGotham City.Dr. Victor Frieswas a brilliant scientist and cryonics expert working for GothCorp, but when his wifeNora Friescontracts a terminal illness, while Fries works on a freeze ray. Fries' boss decides to tell the mob about the gun, leadingBatmanto create a team of specialists to help him do his job better. Fries decides to use the device on Nora, to put her in cryo-stasis.",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [],
+      "residents": [
+        "batman"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_44",
+    "name": "GothCorp_(Arkhamverse)",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/GothCorp_(Arkhamverse)",
+    "description": "",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [],
+      "residents": [
+        "batman"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_45",
+    "name": "Gracey%27s",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Gracey%27s",
+    "description": "Gracey'sis a large department store in downtownGotham City. A criminal wearing a skelton mask and a Santa suit, wielding a pair of nunchucks attacked Christmas shoppers here.",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [],
+      "residents": [],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_46",
+    "name": "Hall_of_Records",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Hall_of_Records",
+    "description": "TheGotham Hall of Recordsis where thousands of documents and birth records related to the city's populace are stored. ThePenguinwanted access to this building to keep information on the first-born sons to privilege in the city, to eventually target them for murder. Completely unbeknownst to the public and even his conspiratorMax Shreck, who thought his dream in life was to find his parents and learn his family name.",
+    "category": "Batman Returns Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [],
+      "residents": [
+        "batman",
+        "alfred",
+        "penguin",
+        "catwoman",
+        "guards"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_47",
+    "name": "Haly%27s_Circus",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Haly%27s_Circus",
+    "description": "Haly's Circus travelled to Gotham City for a performance but were met by Gotham's then kingpin of crime, BossTony \"Fats\" Zucco. The circus owners refused to pay protection-money to Zucco and as a result, Zucco had his men cut the ropes of the Flying Grayson's no-net trapeze-act.",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [],
+      "residents": [
+        "batman",
+        "bruce wayne",
+        "robin",
+        "two-face"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_48",
+    "name": "Hedare_Beauty",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Hedare_Beauty",
+    "description": "Hedare Beauty(also known asHedare Beauty Company,Hedare Beauty Corporation,Hedare CorporationandHedare Company) is an international beauty cosmetics conglomerate that is responsible for the creation of the toxic beauty cream known as Beau-Line and an antagonistic group in the 2004 movieCatwomanand the videogame adaptation of the same name. This snazzy, wealthy corporation was founded byGeorge Hedareand later run by his wifeLaurel.",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [],
+      "residents": [
+        "catwoman"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_49",
+    "name": "Hudson_University",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Hudson_University",
+    "description": "Hudson Universityis a location in the DC Universe. It was first mentioned inBatman#217 (December 1969). According to the Atlas of the DC Universe (published by Mayfair Games), it is located in the city of New Carthage, New York.",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [],
+      "residents": [
+        "batman",
+        "robin"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_50",
+    "name": "Iceberg_Casino",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Iceberg_Casino",
+    "description": "The casino is a secondary business run byOswald Cobblepotin theGotham Bayarea while theIceberg Loungeis located downtown.",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [],
+      "residents": [],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_51",
+    "name": "Iceberg_Lounge",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Iceberg_Lounge",
+    "description": "TheIceberg Loungeis a posh, trendyGotham Citynightclub, and is the base of operations for thePenguin.",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [],
+      "residents": [
+        "batman",
+        "joker",
+        "penguin"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_52",
+    "name": "Indian_Hill",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Indian_Hill",
+    "description": "Indian Hillis a research facility which acts as a division forWayne Enterprisesin the seriesGotham. It serves as one of the major story arcs in the second season, having been previously referenced to in the first season.",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [
+        "elevator"
+      ],
+      "residents": [
+        "penguin",
+        "employees"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_53",
+    "name": "Isle_That_Time_Forgot",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Isle_That_Time_Forgot",
+    "description": "",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [],
+      "residents": [],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_54",
+    "name": "Jezebel_Center",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Jezebel_Center",
+    "description": "Jezebel Center(also known asJezebel Plaza) was a shopping center inBatman: Arkham Origins,andBatman: Arkham City',that was located in the Bowery.",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [],
+      "residents": [
+        "batman",
+        "penguin",
+        "riddler",
+        "two-face",
+        "inmates"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_55",
+    "name": "Joker%27s_Funland",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Joker%27s_Funland",
+    "description": "Joker's Funlandwas the base of operations ofthe JokerandHarley Quinnwithin the confines ofArkham City. It was comprised of the formerIndustrial District, particularlyFalcone ShippingandSionis Industries.",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [],
+      "residents": [
+        "batman",
+        "joker",
+        "penguin",
+        "riddler",
+        "two-face",
+        "prisoners",
+        "inmates"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_56",
+    "name": "Kakure-Zato",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Kakure-Zato",
+    "description": "TheKakure-ZatoisTsunetomo's hidden village where he trains Shinobi warriors in Japan.Bruce Waynelearned to master his body here and survived being attacked by four ninja assassins at once.",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [],
+      "residents": [
+        "bruce wayne"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_57",
+    "name": "Lady_Gotham",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Lady_Gotham",
+    "description": "TheLady Gothamwas a large statue that overlookedGotham Harborand bore significant resemblance to theStatue of LibertyinNew York City. The head of the statue was partially damaged byTwo-Facewhen he locked his helicopter on course to collide with it in an attempt to killBatman.",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [],
+      "residents": [
+        "batman",
+        "two-face"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_58",
+    "name": "Lazarus_Pit",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Lazarus_Pit",
+    "description": "Beyond him, however, Bane and Batman together also served an important role in the history of Lazarus Pits: the destruction of nearly all pits on Earth. Now while supposedly only one pit exists, there are actually four remaining. The first belongs toRa's al Ghul'sdaughterNyssa, who also discovered a way to use the pits indefinitely — whereas before a pit could only be used once. The second is located in theBatcave, created by Batman after he learned that the Pits were necessary to maintain the stability of the world, but wanting to ensure that Ra's could never use the pit to return from the de...",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [],
+      "residents": [
+        "batman",
+        "bruce wayne",
+        "joker",
+        "riddler",
+        "bane",
+        "inmates",
+        "staff"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_59",
+    "name": "London",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/London",
+    "description": "",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [],
+      "residents": [
+        "batman",
+        "alfred"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_60",
+    "name": "Los_Angeles",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Los_Angeles",
+    "description": "Los Angelesis a major metropolitan city located in the state ofCalifornia,USA.",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [],
+      "residents": [
+        "batman",
+        "robin"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_61",
+    "name": "Markovia",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Markovia",
+    "description": "Former nazi, \"Baron Bedlam\" took over the nation and killed its monarch, King Viktor. During this incident,Wayne IndustriesCEOLucius Foxwas visiting the nation and was taken prisoner by Baron Bedlam. Fox's allyBatmanlearned that he was taken captive and pushed for theJustice Leagueto attack and free the nation from the nazi, only for the Justice League to refuse out of diplomacy. Angered, Batman quit the Justice League and founded his own superhero team called, \"The Outsiders\" to liberate Markovia.",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [],
+      "residents": [
+        "batman"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_62",
+    "name": "Mercey_Island",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Mercey_Island",
+    "description": "Mercey Islandis a triangle-shaped island in the northern part ofGotham City. It is known as the second location ofArkham Asylumafter the original asylum inSommerseton the mainland was destroyed duringKnightfall.",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [],
+      "residents": [
+        "batman",
+        "bane"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_63",
+    "name": "Metropolis",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Metropolis",
+    "description": "Metropoliswas a fictional major metropolitan city located in the state of Delaware,USA. It is best known as the home ofSuperman.",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [],
+      "residents": [
+        "batman",
+        "bruce wayne",
+        "alfred",
+        "robin",
+        "nightwing",
+        "joker",
+        "penguin",
+        "riddler",
+        "two-face",
+        "catwoman"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_64",
+    "name": "Monarch_Theatre",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Monarch_Theatre",
+    "description": "TheMonarch Theatreis an abandoned movie theatre/cinema located inGotham City'sPark Rowdistrict. The theatre was visited by the Wayne family prior toThomasandMartha Wayne's murder. The theatre has often served as a hideout for some ofBatman's theatrical enemies, includingthe Joker.",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [],
+      "residents": [
+        "batman",
+        "joker",
+        "penguin",
+        "two-face",
+        "catwoman"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_65",
+    "name": "Moxon_Sky-Hi_Advertising",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Moxon_Sky-Hi_Advertising",
+    "description": "",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [
+        "hangar"
+      ],
+      "residents": [],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_66",
+    "name": "My_Alibi",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/My_Alibi",
+    "description": "My AlibiBar and Grillis a seedy underworld bar near the outskirts ofGotham City. It was frequented by small-time hoods, petty criminals, and failed supervillains, who met there to look for work or trade gossip. Regular patrons ofMy AlibiincludedKiller Moth, thePolka-Dot Man, andFirefly.Batmanoften visited the bar in the guise ofMatches Malone.",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [],
+      "residents": [
+        "batman",
+        "bruce wayne",
+        "robin",
+        "batgirl",
+        "nightwing",
+        "two-face",
+        "bane"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_67",
+    "name": "New_Jersey",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/New_Jersey",
+    "description": "New Jersey, abbreviated to NJ, is located on the East Coast of the U.S. Southern New Jersey is home to one of the country's most infamous localesGotham City.",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [],
+      "residents": [],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_68",
+    "name": "New_York_City",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/New_York_City",
+    "description": "New York Cityis a major metropolitan city located in the state ofNew York,USA. Its Wall Street served as a filming location forThe Dark Knight Rises. In the DC Universe, New York City is the home of Firestorm and theTeen Titans.",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [],
+      "residents": [
+        "batman",
+        "bruce wayne",
+        "robin",
+        "nightwing",
+        "joker"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_69",
+    "name": "Old_Gotham",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Old_Gotham",
+    "description": "Old Gotham Cityis a large architectural scheme for Gotham City designed byCyrus Pinkneyand promoted by JudgeSolomon Wayne.",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [],
+      "residents": [
+        "batman",
+        "joker"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_70",
+    "name": "Old_Wayne_Tower",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Old_Wayne_Tower",
+    "description": "Old Wayne Towerwas the tallest building in Gotham (pre earthquake). Part of a larger architectural scheme forOld Gothamdesigned byCyrus Pinkneyand promoted by JudgeSolomon Wayne.",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [],
+      "residents": [
+        "batman"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_71",
+    "name": "Old_Zoo",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Old_Zoo",
+    "description": "TheOld Gotham City Zoowas located within the overallGotham Parkarea ofGotham City. It was closed down and abandoned thirty years prior toBatman's emergence in Gotham. ThePenguin's returned here in adulthood and set up a base of operations in theArctic World Pavilion, where he was raised a small child. The entire site ended up being destroyed by the missiles from thePenguin Commandos.",
+    "category": "Batman Returns Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [],
+      "residents": [
+        "batman",
+        "bruce wayne",
+        "alfred",
+        "penguin",
+        "catwoman"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_72",
+    "name": "Paektu_Dojang",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Paektu_Dojang",
+    "description": "A mysterious remote dojang whereMaster Kirigiresides, located on the North Korean side of the Paektu mountain range.Bruce Wayne,Minhkhoa KhanandBen Turnerall studied martial arts here.",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [],
+      "residents": [
+        "bruce wayne"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_73",
+    "name": "Pe%C3%B1a_Duro",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Pe%C3%B1a_Duro",
+    "description": "Peña Duro, is an infamous prison located inSanta Prisca, a Caribbean country in the DC Comics universe. It was where theBatmanvillain known asBanewas born and raised. Inmates of the prison were also used as test subject for the steroidVenom.",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [],
+      "residents": [
+        "batman",
+        "riddler",
+        "bane",
+        "inmates"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_74",
+    "name": "Powers_Tech",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Powers_Tech",
+    "description": "Powers Technologyalternatively known asPowers International, Powers CorpandWayne-Powers Enterprisesor theWayne-Powers Corporationin future timelines is a technology company defined by it's rivalry withWayne Enterprises. The company first-appeared in the seriesBatman Beyondas being a recurring enemy toTerry McGinnis. Since then it has been introduced in mainstream comics during the New 52.",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [],
+      "residents": [
+        "batman",
+        "bruce wayne",
+        "alfred",
+        "joker"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_75",
+    "name": "R.F._Schreck_Criminal_Holding_Facility",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/R.F._Schreck_Criminal_Holding_Facility",
+    "description": "TheR.F. Schreck Criminal Holding Facilityis a detention area used by theGCPD. The detainees are kept in holding cells here before their court date. It is often referred to as simply \"The Shreck.'",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [],
+      "residents": [],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_76",
+    "name": "R.H._Kane_Building",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/R.H._Kane_Building",
+    "description": "TheR.H. Kane Buildingis a multi-story apartment complex inGotham City. It is owned by the Kane family and was named in honor of Robert H. Kane.",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [],
+      "residents": [
+        "batman"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_77",
+    "name": "Rallstone_Castle",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Rallstone_Castle",
+    "description": "Rallstone Castlewas the palatial estate ofThomas Rallstonelocated inGotham County. It became the home of avampirecult led by Niccolai Tepes.",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [],
+      "residents": [
+        "batman"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_78",
+    "name": "Robinson_Park",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Robinson_Park",
+    "description": "Robinson Parkis a public park located inGotham City. Usually depicted as part of its midtown island, it contains one of the city's reservoirs and botanical gardens. Robinson Park has often served as a hideout or place of operations forPoison Ivy, who has used it as her domain.",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [],
+      "residents": [
+        "batman",
+        "robin",
+        "joker"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_79",
+    "name": "S.T.A.R._Labs",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/S.T.A.R._Labs",
+    "description": "Science and Technology Advanced Research LaboratoriesorS.T.A.R. Labs, is a research facility. They first appeared inSupermanvol. 1 #246in December 1971, and was created byLen WeinandCurt Swan.",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [],
+      "residents": [],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_80",
+    "name": "Santa_Prisca",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Santa_Prisca",
+    "description": "Santa Priscais a fictional Latin American island country, located in the northeastern Caribbean. Renowned in the Batman mythos for rampant political corruption and an equally infamous prison,Peña Duro, it has also been remembered as the birthplace ofBane.",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [],
+      "residents": [
+        "batman",
+        "bruce wayne",
+        "bane"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_81",
+    "name": "Selina_Kyle%27s_apartment",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Selina_Kyle%27s_apartment",
+    "description": "Over the years,Selina Kyle, also known as Catwoman, has resided in a variety ofapartments. They are often used as her permanent hideouts, with hidden areas used to hide her costume and equipment, and access to the rooftops. Most of them are located withinGotham City, usually in or near theEast Endof the city.",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [],
+      "residents": [
+        "batman",
+        "robin",
+        "riddler",
+        "two-face",
+        "catwoman"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_82",
+    "name": "Slaughter_Swamp",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Slaughter_Swamp",
+    "description": "The Slaughter Swampis a paranormal wetland region found inSommerseton the outskirts ofGotham City. It is best known for its role in the birth ofSolomon Grundy, with its waters and plant-life bonding to Grundy's corpse to resurrect him as an undead behemoth.",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [],
+      "residents": [
+        "batman"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_83",
+    "name": "Solomon_Wayne_Courthouse",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Solomon_Wayne_Courthouse",
+    "description": "TheSolomon Wayne Courthousewas the base of operations for bothAnarkyinBatman: Arkham OriginsandTwo-FaceinBatman: Arkham City.",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [],
+      "residents": [
+        "batman",
+        "bruce wayne",
+        "joker",
+        "riddler",
+        "two-face",
+        "catwoman"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_84",
+    "name": "Sommerset_Township",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Sommerset_Township",
+    "description": "Sommerset Townshipis a civil township inGotham County, New Jersey. It is located on the mainland northwest ofGotham Cityand includes several suburban communities likeEvanstownandLittle Stockton.",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [],
+      "residents": [
+        "batman",
+        "bane"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_85",
+    "name": "Statue_of_Justice",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Statue_of_Justice",
+    "description": "TheStatue of Justiceis a giant sculpture that overlooks theGotham dock areaand is located on a small island in Gotham's bay. It is a statue of a robed woman and theGotham Cityequivalent of theStatue of LibertyinNew York Citywhich it closely resembles.",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [],
+      "residents": [
+        "batman",
+        "robin",
+        "batgirl",
+        "joker",
+        "two-face",
+        "catwoman",
+        "bane",
+        "commissioner gordon"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_86",
+    "name": "The_Belfry",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/The_Belfry",
+    "description": "The Belfryis one of the secret headquarters forBatmanand theBat-Family. Created in theOld Wayne Tower, it was constructed by Bruce Wayne andTim Drakefor the group to operate out of.",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [],
+      "residents": [
+        "batman",
+        "bruce wayne",
+        "alfred",
+        "joker"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_87",
+    "name": "United_States_of_America",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/United_States_of_America",
+    "description": "TheUnited States of Americais a country with fifty states and a federal district. It was the land ofGotham City'slocation.",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [],
+      "residents": [
+        "batman"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_88",
+    "name": "Wayne_Foundation_Building",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Wayne_Foundation_Building",
+    "description": "TheWayne Foundation Buildingis a major location at the center ofGotham City. It served as the main headquarters for both theWayne FoundationandWayne Enterprises. WhenDick Graysonleft for Hudson University,Bruce Waynemoved to a penthouse atop the building, moving most of his equipment to a hidden basement area located under the building.",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [
+        "elevator"
+      ],
+      "residents": [
+        "batman",
+        "bruce wayne",
+        "alfred"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_89",
+    "name": "Wayne_Manor",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Wayne_Manor",
+    "description": "Wayne Manoris the stately residence of billionaireBruce Wayne, secretly Batman. Under all the expensive china and bookcases, it also serves to hide the massive underground cave used as Batman's base of operations, theBatcave.",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [
+        "underground",
+        "vault",
+        "elevator",
+        "cave system"
+      ],
+      "residents": [
+        "batman",
+        "bruce wayne",
+        "alfred",
+        "robin",
+        "joker",
+        "riddler",
+        "inmates",
+        "doctors"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_90",
+    "name": "Wayne_Manor_(Arkhamverse)",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Wayne_Manor_(Arkhamverse)",
+    "description": "Wayne Manorwas the home ofBruce Wayne. Wayne Manor also housed theBatcave, located deep below Wayne Manor that Bruce found when he was a young boy.",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [],
+      "residents": [
+        "batman",
+        "bruce wayne",
+        "alfred",
+        "nightwing",
+        "joker",
+        "penguin",
+        "catwoman",
+        "bane",
+        "commissioner gordon"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_91",
+    "name": "Wayne_Tower",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Wayne_Tower",
+    "description": "Wayne Toweris the headqauters ofWayne EnterprisesorWayne Industries, depending on the writer.",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [],
+      "residents": [
+        "batman"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_92",
+    "name": "What_a_Way_to_Go-Go",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/What_a_Way_to_Go-Go",
+    "description": "TheWhat a Way to Go-Gowas a nightclub inGotham City.",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [],
+      "residents": [
+        "batman",
+        "robin",
+        "riddler",
+        "staff"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_93",
+    "name": "Willowood",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Willowood",
+    "description": "Willowood, depending on the continuity known asWillowood Asylum,Willowwood Sanitarium,Willowood Orphangeor theWillowwood Home for Childrenis a location in theGotham Cityarea. Willowood is most commonly affiliated with being a dark location connected to theWayne family's secrets.",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [],
+      "residents": [
+        "batman",
+        "riddler"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_94",
+    "name": "Wonder_City",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Wonder_City",
+    "description": "Wonder City(also identified asOld Gotham) was an abandoned city that was located below North Gotham City which housed one ofRa's al Ghul'sLazarus Pits. It was an actual city while Ra's developed the Lazarus Pit. Ra's eventually returned to Wonder City to replenish himself from the pit and planned the events that took shape inBatman: Arkham City.",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [],
+      "residents": [
+        "batman",
+        "joker",
+        "prisoners",
+        "inmates",
+        "guards"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_95",
+    "name": "Wonder_Tower",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Wonder_Tower",
+    "description": "Centuries before the events withinArkham City, the legendaryWonder Citywas built byRa's al Ghulin effort to purgeGotham Cityfrom the plague of crime. After Wonder City's completion, Ra's began to work on his crown jewel: Wonder Tower. Standing high above Wonder City was the great tower, a monument of prosperity, but it was also part of Ra's' experiments with a life-replenishing compound that he later namedLazarus.",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [
+        "elevator"
+      ],
+      "residents": [
+        "batman",
+        "prisoners",
+        "inmates",
+        "guards"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_96",
+    "name": "Wayne_Enterprises",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Wayne_Enterprises",
+    "description": "Wayne Enterprises(formerlyWayneCorp) is a company in the DC Universe. Wayne Enterprises is owned by billionaireBruce Wayneand run by his business managerLucius Fox. It was founded by merchant ancestors of the Wayne family in the 17th century as a merchant house. It changed and gradually grew when it was officially erected in the 19th century when Alan Wayne, heir to Solomon Wayne, founded Wayne Shipping and Wayne Chemical. Along with Wayne Manufacturing, which came later, the Industrial Revolution fueled Wayne Enterprises into becoming a major powerhouse. In addition to providing an income for...",
+    "category": "",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [],
+      "residents": [
+        "batman",
+        "bruce wayne",
+        "robin",
+        "joker",
+        "penguin",
+        "riddler",
+        "two-face",
+        "employees"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_97",
+    "name": "Ace_Chemicals",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Ace_Chemicals",
+    "description": "TheAce Chemical Processing Plant(often referred to as\"Ace Chemicals\") is a chemical plant inGotham City. Located next to theMonarch Playing Card Company, it is often used as a hideout for criminals who use chemical weapons, primarily theJoker. Various accounts point to the plant as the place where the Clown Prince of Crime began, often due to falling into one of its mixing vats.",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [],
+      "residents": [
+        "batman",
+        "bruce wayne",
+        "alfred",
+        "joker",
+        "riddler"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_98",
+    "name": "Blackgate_Prison",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Blackgate_Prison",
+    "description": "Blackgate Penitentiaryis aGotham (State)prison traditionally located on a small island in the Gotham Bay.Batman: The Long Halloweensuggests that it was preceded by Gotham State Penitentiary, which appeared often in pre-Crisis comics.",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [],
+      "residents": [
+        "batman",
+        "bruce wayne",
+        "joker",
+        "penguin",
+        "two-face",
+        "catwoman",
+        "bane",
+        "commissioner gordon",
+        "prisoners",
+        "inmates"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_99",
+    "name": "City_Hall",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/City_Hall",
+    "description": "Gotham City Hall first appeared inThe Dark Knight. It housedMayor Garcia'soffice.",
+    "category": "Film Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [],
+      "residents": [
+        "batman",
+        "bane"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_100",
+    "name": "Gotham_City_Hall",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Gotham_City_Hall",
+    "description": "Gotham City Hall first appeared inThe Dark Knight. It housedMayor Garcia'soffice.",
+    "category": "Film Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [],
+      "residents": [
+        "batman",
+        "bane"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_101",
+    "name": "Park_Row",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Park_Row",
+    "description": "Park Row, later calledCrime Alley, is a historical landmark inGotham Cityand was rather infamous for being the location where Bruce Wayne's parents Thomas and Martha were murdered, which started off Bruce's career as Batman.",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [],
+      "residents": [
+        "batman",
+        "bruce wayne",
+        "two-face",
+        "catwoman"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_102",
+    "name": "The_Narrows",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/The_Narrows",
+    "description": "The Narrowsis an island in the middle of the Finger River, situated between Midtown and Downtown Gotham City.",
+    "category": "Film Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [],
+      "residents": [
+        "batman",
+        "robin"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_103",
+    "name": "East_End",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/East_End",
+    "description": "TheEast Endis a district located inGotham City. It is located on the north island as one of the poorer districts, with heavy crime rates and activities such as mugging, prostitution and drug trade. Its most prominent location is \"Crime Alley\", the alleyway whereBruce Wayne's parentsThomasandMartha Waynewere murdered byJoe Chill, an event which started off his career as Batman.",
+    "category": "Gotham City Districts",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [],
+      "residents": [
+        "batman",
+        "bruce wayne",
+        "robin"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_104",
+    "name": "Gotham_Cathedral",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Gotham_Cathedral",
+    "description": "Gotham Cathedralwas a condemned church inGotham City. The highest point in the city's skyline at 800 feet tall, it is instantly recognizable towering over all other buildings.",
+    "category": "Film Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [],
+      "residents": [
+        "batman",
+        "bruce wayne",
+        "joker",
+        "penguin",
+        "riddler",
+        "catwoman",
+        "staff"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_105",
+    "name": "Gotham_Clock_Tower",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Gotham_Clock_Tower",
+    "description": "Gotham clock tower is a building in Batman universe.",
+    "category": "",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [],
+      "residents": [
+        "batman"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_106",
+    "name": "Gotham_Subway",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Gotham_Subway",
+    "description": "TheGotham City Subwayis the public transport system consisting of various rail lines and underground tunnels. Stretching across the city, it is often used by the public of Gotham to travel underground. However, due to neglecgence and route changes, various stations and lines throughout Gotham have been abandoned. Gotham's criminals have also set up bases within the subway.",
+    "category": "Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [
+        "underground"
+      ],
+      "residents": [
+        "batman"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_107",
+    "name": "Gotham_Underground",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Gotham_Underground",
+    "description": "Gotham Undergroundis a series of comics in which the gangs of Gotham try to fill the gap with the death of the Black Mask. Bruce Wayne is posing as a criminal under the name 'Matches Malone'. This means that Nightwing and Robin (helped byThe Oracle) are on their own.",
+    "category": "",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [
+        "underground"
+      ],
+      "residents": [
+        "batman",
+        "bruce wayne",
+        "alfred",
+        "robin",
+        "nightwing",
+        "penguin",
+        "riddler"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_108",
+    "name": "Gotham_Sewers",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Gotham_Sewers",
+    "description": "Gotham Sewersis the underwater sewage system under Gotham City.",
+    "category": "Batman Returns Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [],
+      "residents": [
+        "batman",
+        "alfred",
+        "penguin"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_109",
+    "name": "Stacked_Deck",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Stacked_Deck",
+    "description": "TheStacked Deckis a bar and pool hall locatedGotham City. Depending on the writer, it is located either inOtisburg,Park Rowor theGotham Harbor. It was regularly visited by members of the criminal underworld, includingthe JokerandCatwoman.Batmanhimself also visits the Stacked Deck, usuallyin disguise.",
+    "category": "Batman: The Animated Series Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [],
+      "residents": [
+        "batman",
+        "bruce wayne",
+        "batgirl",
+        "joker",
+        "penguin",
+        "riddler",
+        "two-face",
+        "catwoman"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_110",
+    "name": "Gotham_Stock_Exchange",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Gotham_Stock_Exchange",
+    "description": "TheGotham Stock Exchangeis a large stock exchange located inGotham City, shown inThe Dark Knight Rises.",
+    "category": "Film Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [],
+      "residents": [
+        "bruce wayne",
+        "bane"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_111",
+    "name": "Gotham_Gazette",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Gotham_Gazette",
+    "description": "TheGotham Gazetteis a metropolitan newspaper based out of Gotham City with nation-wide syndication.",
+    "category": "",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [],
+      "residents": [
+        "batman",
+        "bruce wayne",
+        "robin",
+        "joker",
+        "commissioner gordon"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  },
+  {
+    "id": "location_112",
+    "name": "Old_Gotham_Cathedral",
+    "type": "location",
+    "url": "https://batman.fandom.com/wiki/Old_Gotham_Cathedral",
+    "description": "Gotham Cathedralwas a condemned church inGotham City. The highest point in the city's skyline at 800 feet tall, it is instantly recognizable towering over all other buildings.",
+    "category": "Film Locations",
+    "details": {
+      "type": "",
+      "district": "",
+      "address": "",
+      "owner": "",
+      "security_level": "",
+      "notable_features": [],
+      "residents": [
+        "batman",
+        "bruce wayne",
+        "joker",
+        "penguin",
+        "riddler",
+        "catwoman",
+        "staff"
+      ],
+      "security_systems": [],
+      "first_appearance": "",
+      "status": "active"
+    },
+    "aliases": [],
+    "connected_locations": [],
+    "source_file": "batman_locations_COMPLETE.json"
+  }
+]

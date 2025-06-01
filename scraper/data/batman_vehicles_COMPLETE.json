@@ -1,0 +1,3046 @@
+[
+  {
+    "name": "Ace_the_Blade_Wolf",
+    "url": "https://batman.fandom.com/wiki/Ace_the_Blade_Wolf",
+    "type": "Vehicles",
+    "description": "",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "The_Bat",
+    "url": "https://batman.fandom.com/wiki/The_Bat",
+    "type": "Dark Knight Trilogy vehicles",
+    "description": "The Batwas the name that was given to the aircraft that was operated byBatmanin The Dark Knight Rises.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Bat-Glider",
+    "url": "https://batman.fandom.com/wiki/Bat-Glider",
+    "type": "Vehicles",
+    "description": "TheBat-Glideris an airborne vehicle used byBatman. Inspired byLeonardo da Vinci'sglider designs, it is used by Batman to glide through the sky without being noticed. It is typically used on stealth missions instead of theBatplaneorBatcopter. In recent years, the Bat-Glider's functionality has been merged withBatman's cape.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Bat-Rocket",
+    "url": "https://batman.fandom.com/wiki/Bat-Rocket",
+    "type": "Vehicles",
+    "description": "The Bat-Ship was created byBatmanandRobinafter being transported to the year 2050 by futuristic crime-fighter,Rokej. The ship was was created to assist Rokej in hunting down a gang of space-pirates who were stealing space-ships.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [
+        "rocket"
+      ],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Bat-Rocket_(Dozierverse)",
+    "url": "https://batman.fandom.com/wiki/Bat-Rocket_(Dozierverse)",
+    "type": "Vehicles",
+    "description": "TheBat-Rocketwas the space travelling vehicle used byBatmanandRobin.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [
+        "rocket"
+      ],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Bat-Sub",
+    "url": "https://batman.fandom.com/wiki/Bat-Sub",
+    "type": "Vehicles",
+    "description": "The first model of the Bat-Sub was in fact an upgraded version of the Batplane, which could be transformed into a submarine by retracting its wings and using the torpedoes for underwater propulsion. It also had car and boat modes.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [
+        "torpedo",
+        "net launcher"
+      ],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Bat-Sub_(Dozierverse)",
+    "url": "https://batman.fandom.com/wiki/Bat-Sub_(Dozierverse)",
+    "type": "Vehicles",
+    "description": "TheBat-Subis an underwater vehicle used byBatmanandRobin. It appears inBatman '66.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [],
+      "defensive_systems": [],
+      "special_features": [
+        "radar"
+      ],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Batarang_X",
+    "url": "https://batman.fandom.com/wiki/Batarang_X",
+    "type": "Vehicles",
+    "description": "Batarang Xis a large redBatarangthat can be launched from theBatmobileas a means of transportation. It is kept under a tarp in theBatcave, deemed \"too dangerous\" byBatman.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Batblade",
+    "url": "https://batman.fandom.com/wiki/Batblade",
+    "type": "Vehicles",
+    "description": "TheBatbladewas a customIce Armorvehicle that was owned byBatman.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Batboat",
+    "url": "https://batman.fandom.com/wiki/Batboat",
+    "type": "Vehicles",
+    "description": "The BatboatisBatman's personal watercraft. At times the Dark Knight has to take to the waters. Using a Catamaran type boat, the Batboat can reach speeds of up to 120mph standard.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [
+        "torpedo"
+      ],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Batboat_(Batman_Forever)",
+    "url": "https://batman.fandom.com/wiki/Batboat_(Batman_Forever)",
+    "type": "Vehicles",
+    "description": "TheBatboatappeared inBatman Forever. It was piloted byRobinand quickly destroyed byTwo-Face.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [],
+      "defensive_systems": [],
+      "special_features": [
+        "sonar"
+      ],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Batboat_(DC_Animated_Universe)",
+    "url": "https://batman.fandom.com/wiki/Batboat_(DC_Animated_Universe)",
+    "type": "Vehicles",
+    "description": "TheBatboatis the personal watercraft used byBatman. It also functions as a submarine.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Batboat_(Dozierverse)",
+    "url": "https://batman.fandom.com/wiki/Batboat_(Dozierverse)",
+    "type": "Vehicles",
+    "description": "TheBatboatwasBatman's personal watercraft that debuted in the1966 spinoff moviebased on thetv show.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Batboat_(Matsudaverse)",
+    "url": "https://batman.fandom.com/wiki/Batboat_(Matsudaverse)",
+    "type": "Vehicles",
+    "description": "TheBatboatisBatman's boat used mostly for underwater movement.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Batcopter",
+    "url": "https://batman.fandom.com/wiki/Batcopter",
+    "type": "Vehicles",
+    "description": "The first appearance of the Batcopter was in the 1966 filmBatman. Unlike theBatmobile, theBatcycle, and theBatboat, it was not intended for use in the1960s Batman television series, which did not have the budget to create such elaborate vehicles. While the other vehicles were bought by 20th Century Fox, the Batcopter was only leased for the movie. It cost Fox $750 a day for five days from April 7 to April 11, 1966.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Batcopter_(Dozierverse)",
+    "url": "https://batman.fandom.com/wiki/Batcopter_(Dozierverse)",
+    "type": "Vehicles",
+    "description": "BatmanandRobinused the Batcopter on their rescue mission to saveCommodore Schmidlapp, which turned out to be a trap. The Batcopter was later used to track theBatmobilestolen by thePenguin, and it got damaged by one of theRiddler's Polaris underwater missiles.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [
+        "missile"
+      ],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Batcopter_(Filmation)",
+    "url": "https://batman.fandom.com/wiki/Batcopter_(Filmation)",
+    "type": "Vehicles",
+    "description": "TheBatcopteris the second aircraft used by Batman and Robin.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [
+        "torpedo"
+      ],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Batcycle",
+    "url": "https://batman.fandom.com/wiki/Batcycle",
+    "type": "Vehicles",
+    "description": "TheBatcycleis the motorcycle counterpart to theBatmobile. TheBatcycleis the personal motorcycle ofBatman. In the comic book universe, Batman's personal Batcycle is a modified street-bike with a 786 cc liquid-cooledV-4 engine. It contains a computer-controlled carburetor and bulletproof wind-guard.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [],
+      "defensive_systems": [
+        "bulletproof"
+      ],
+      "special_features": [
+        "autopilot"
+      ],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Batcycle_(Beware_the_Batman)",
+    "url": "https://batman.fandom.com/wiki/Batcycle_(Beware_the_Batman)",
+    "type": "Beware the Batman Vehicles",
+    "description": "When Deathstroke stole the Batmobile to travel to the Batcave, Batman uses the Batcycle to head to the cave to stop him.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Batcycle_(Burtonverse)",
+    "url": "https://batman.fandom.com/wiki/Batcycle_(Burtonverse)",
+    "type": "Vehicles",
+    "description": "TheBatcyclewas a vehicle owned byBatman. Obtained some time beforeHarvey Dent's campaign against him, it was stored in theBatcave. After joining his operations,Drake Winstonbegan using the Batcycle as his main vehicle of transport as \"Robin\".",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Batcycle_(DC_Animated_Universe)",
+    "url": "https://batman.fandom.com/wiki/Batcycle_(DC_Animated_Universe)",
+    "type": "Vehicles",
+    "description": "The Batcycle is most often used byRobinand is sometimes used byBatmanwhen theBatmobileis too cumbersome or is being repaired.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Batcycle_(Dozierverse)",
+    "url": "https://batman.fandom.com/wiki/Batcycle_(Dozierverse)",
+    "type": "Vehicles",
+    "description": "TheBatcyclewasBatman's personal motorcycle with a rigged sidecar forRobinknown as ago-cart.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [],
+      "defensive_systems": [],
+      "special_features": [
+        "remote control"
+      ],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Batcycle_(Filmation)",
+    "url": "https://batman.fandom.com/wiki/Batcycle_(Filmation)",
+    "type": "Vehicles",
+    "description": "Batgirl uses the Batcycle to travel anywhere in Gotham City to assist Batman and Robin in capturing the known supervillains. It has a sidecar attached to its right side.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Batcycle_(Matsudaverse)",
+    "url": "https://batman.fandom.com/wiki/Batcycle_(Matsudaverse)",
+    "type": "Vehicles",
+    "description": "TheBatcyclewas another road vehicle used byBatmanonly a few times in The Batman.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [],
+      "defensive_systems": [],
+      "special_features": [
+        "autopilot"
+      ],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Batcycle_(The_Batman_film)",
+    "url": "https://batman.fandom.com/wiki/Batcycle_(The_Batman_film)",
+    "type": "Vehicles",
+    "description": "TheBatcyclewas a vehicle used byBatmanwhilst on patrol in Gotham. It was often used to travel to at faster speeds and to areas where theBatmobilecould not access. Whilst conducting survience or avoiding attention, Batman instead usedanother motorcycle. Batman made use of the Batcycle afterGothamwasfloodedbythe Riddler. He also drove the vehicle whilst bidding farewell toSelina Kyle, driving it through theGotham Cemeteryalongsideher motorcycle.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Batgirl_Cycle",
+    "url": "https://batman.fandom.com/wiki/Batgirl_Cycle",
+    "type": "Vehicles",
+    "description": "During Barbara's stay inGotham City, she changes into her Batgirl suit and enter the secret garage where she stores her Batgirl Cycle, and drives it out of the garage's secret door in an alleyway. It has the same gadgets and captivities like theBatmobile.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Batgyro",
+    "url": "https://batman.fandom.com/wiki/Batgyro",
+    "type": "Vehicles",
+    "description": "TheBatgyrowas first air-based vehicle used byBatmanin his operations. It was the first vehicle to bare abat-style, predating theBatmobile. The Batgyro served as a prototype for theBatplane, with it later abandoned in favor of both it and the similarBatcopters.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Bathammer",
+    "url": "https://batman.fandom.com/wiki/Bathammer",
+    "type": "Vehicles",
+    "description": "TheBathammerwas a custom vehicle that was created byBatmanto combat theFreezemobile.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Batmissile",
+    "url": "https://batman.fandom.com/wiki/Batmissile",
+    "type": "Vehicles",
+    "description": "TheBatmissilewas a kind of escape vehicle that was integrated into theBatmobile. When needed, the Batmobile shed its outer \"skin\" and formed that bullet train-like vehicle that was able to pass through narrow spaces that it was not able to go through normally.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [
+        "machine gun",
+        "missile"
+      ],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Batmobile",
+    "url": "https://batman.fandom.com/wiki/Batmobile",
+    "type": "Vehicles",
+    "description": "BatmobilesareBatman's high-powered roadsters and primary mode of transportation. The cars have appeared in almost every Batman iteration, including comics, movies, and television and has since gone on to be a part of pop culture.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [
+        "machine gun",
+        "missile"
+      ],
+      "defensive_systems": [
+        "armor plating",
+        "bulletproof"
+      ],
+      "special_features": [
+        "radar"
+      ],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Batmobile_(1943_Serial)",
+    "url": "https://batman.fandom.com/wiki/Batmobile_(1943_Serial)",
+    "type": "Vehicles",
+    "description": "The first live action Batman film was a serial produced by Columbia in 1943. Like most other serials, these were low-budget affairs that were run once a week, featuring \"cliffhanger\" type endings to draw audiences back for the next installment. Lacking the funding of laterBatmanprojects, the \"Batmobile\" was simply a factory-stock convertible.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Batmobile_(1949_Serial)",
+    "url": "https://batman.fandom.com/wiki/Batmobile_(1949_Serial)",
+    "type": "Vehicles",
+    "description": "Batman returned to live action for hissecond(and final) serial run in 1949. Though it lacked any significant budget, most elements of the Batman universe were retained: the costumes, Wayne Manor, the Batcave, and a \"Batmobile.\"",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Batmobile_(1992_animated_series)",
+    "url": "https://batman.fandom.com/wiki/Batmobile_(1992_animated_series)",
+    "type": "Vehicles",
+    "description": "Batman's second and first major hi-techBatmobile. It was later phased out in favor of asleek two passenger coupe.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [
+        "missile",
+        "tear gas"
+      ],
+      "defensive_systems": [
+        "bulletproof"
+      ],
+      "special_features": [
+        "ejection seat",
+        "self-destruct"
+      ],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Batmobile_(Arkham_Knight)",
+    "url": "https://batman.fandom.com/wiki/Batmobile_(Arkham_Knight)",
+    "type": "Vehicles",
+    "description": "Uniquely, the Batmobile (designed by Lucius Fox) had the ability to transform, on the fly, into \"Battle Mode\" which gave it the appearance of a battle tank, with a wider wheel base, and higher ground clearance. featuring various weapons and movement capabilities, including a Vulcan Minigun, 60mm Cannon, Missles,non-lethal riot suppressors, full 360 wheel spin and the ability to strafe with built in thrusters. Enemies who touched the Batmobile were knocked out by a charge of electricity. Other features included an EMP to stun hostile drones and knock missiles out of the air, a Drone Virus; a de...",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [
+        "cannon",
+        "missile",
+        "laser",
+        "minigun",
+        "grenade launcher"
+      ],
+      "defensive_systems": [
+        "armor plating",
+        "reactive armor"
+      ],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Batmobile_(Arkhamverse)",
+    "url": "https://batman.fandom.com/wiki/Batmobile_(Arkhamverse)",
+    "type": "Vehicles",
+    "description": "TheBatmobilewasBatman'smain mode of transport aroundGotham City, and in his fight against the combined forces of his deadliest foes. He later took to using a moretank-like, off-road vehicle.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [],
+      "defensive_systems": [],
+      "special_features": [
+        "remote control"
+      ],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Batmobile_(Batman_Beyond)",
+    "url": "https://batman.fandom.com/wiki/Batmobile_(Batman_Beyond)",
+    "type": "Vehicles",
+    "description": "This new flyingBatmobilewas first introduced in the Batman Beyond episode, \"Black Out\", whenTerry McGinnishad to pursue the shape shifting criminalInque, and has used it ever since. It can be assumed thatBruce Waynemust have built it some time after he retired as Batman, as when he retired, that sort of technology was probably not present yet to make that sort of Flying car, and its design is more similar to other flying cars of the Beyond era.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [
+        "missile"
+      ],
+      "defensive_systems": [
+        "cloaking device"
+      ],
+      "special_features": [
+        "radar"
+      ],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Batmobile_(Batman_Forever)",
+    "url": "https://batman.fandom.com/wiki/Batmobile_(Batman_Forever)",
+    "type": "Vehicles",
+    "description": "TheBatmobilewasBatman's primary mode of transportation inBatman Forever. After theRiddlerbroke in to theBatcaveand destroyed this car it was replaced with asingle-seater, open canopy Batmobile.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [
+        "rocket"
+      ],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Batmobile_(Batman_Unlimited)",
+    "url": "https://batman.fandom.com/wiki/Batmobile_(Batman_Unlimited)",
+    "type": "Vehicles",
+    "description": "TheBatmobileis the main road vehicle used by Batman in theBatman Unlimitedmovies.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Batmobile_(Burtonverse)",
+    "url": "https://batman.fandom.com/wiki/Batmobile_(Burtonverse)",
+    "type": "Vehicles",
+    "description": "TheBatmobilewasBatman's primary mode of transportation. At first, Batman only referred to this vehicle as simply \"the car\", and years later Alfred referred to it as the Batmobile. This armored roadster was one of the most daunting components in Batman's vast arsenal, and he kept it stored in theBatcavewhen it was not in use.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [
+        "machine gun",
+        "missile",
+        "rocket",
+        "oil slick"
+      ],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Batmobile_(Caped_Crusader)",
+    "url": "https://batman.fandom.com/wiki/Batmobile_(Caped_Crusader)",
+    "type": "Vehicles",
+    "description": "TheBatmobileis Batman's primary mode of transportation.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [
+        "machine gun",
+        "rocket"
+      ],
+      "defensive_systems": [
+        "armor plating"
+      ],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Batmobile_(DC_Animated_Movie_Universe)",
+    "url": "https://batman.fandom.com/wiki/Batmobile_(DC_Animated_Movie_Universe)",
+    "type": "Vehicles",
+    "description": "TheBatmobilewas a high-tech vehicle that Batman uses to travel around Gotham. It was designed by Lucius Fox.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Batmobile_(Matsudaverse)",
+    "url": "https://batman.fandom.com/wiki/Batmobile_(Matsudaverse)",
+    "type": "Vehicles",
+    "description": "In the animated seriesThe Batman, theBatmobileresembled a sports coupe with multiple jet exhaust slits protruding from the back bumper. When the first Batmobile wasn’t fast enough to stop the speed demon Gearhead (and also not able to be repaired after a massive accident), Batman upgraded his wheels with both a much faster engine and a far lighter chassis. With more speed behind him, Gearhead was no match for The Batman.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Batmobile_(Super_Friends)",
+    "url": "https://batman.fandom.com/wiki/Batmobile_(Super_Friends)",
+    "type": "Vehicles",
+    "description": "In 1973,Batmanreturned to television with the debut of the Superfriends cartoon series. Teamed withSuperman,Aquaman, Wonder Woman, and \"hero trainees\" Wendy, Marvin, and Wonder Dog, the hour-long show had the heroes facing danger around the world. The character roster evolved as the show went on, but Batman &Robinwere always part of the cast.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Batmobile_(The_Brave_and_the_Bold)",
+    "url": "https://batman.fandom.com/wiki/Batmobile_(The_Brave_and_the_Bold)",
+    "type": "Vehicles",
+    "description": "TheBatmobileis the key form of transportation used byBatmanin his war against crime. In this incarnation the Batmobile has a unique application - a triple changer function which features theBatplane, theBatboat,Batcycleanda robotic exoskeleton suit.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Batmobile_(Titans)",
+    "url": "https://batman.fandom.com/wiki/Batmobile_(Titans)",
+    "type": "Vehicles",
+    "description": "TheBatmobileis a car used byBatmanin his operations.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Batmobile_(Tomorrowverse)",
+    "url": "https://batman.fandom.com/wiki/Batmobile_(Tomorrowverse)",
+    "type": "Vehicles",
+    "description": "TheBatmobileis a modified armored car used by Batman.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [],
+      "defensive_systems": [
+        "bulletproof"
+      ],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Batmobile-J",
+    "url": "https://batman.fandom.com/wiki/Batmobile-J",
+    "type": "Vehicles",
+    "description": "TheBatmobile-Jis a road vehicle and Japanese counterpart of theBatmobile. It only appeared inBatman '66.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Batplane",
+    "url": "https://batman.fandom.com/wiki/Batplane",
+    "type": "Vehicles",
+    "description": "TheBatplaneis Batman's personal aircraft. He sometimes travels with it as an alternative to theBatmobile. It has also been called the Batwing (not to be confused withBatwing).",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [],
+      "defensive_systems": [],
+      "special_features": [
+        "radar"
+      ],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Batpod",
+    "url": "https://batman.fandom.com/wiki/Batpod",
+    "type": "Vehicles",
+    "description": "TheBatpodis intended as a kind of \"escape pod\" integrated into theTumbler, it also served an auxiliary vehicle. Armed with dual front-mounted cannons, machine guns and grappling hooks, the Batpod affords Batman greater mobility at the cost of some protection.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [
+        "machine gun",
+        "cannon"
+      ],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Batskiboat",
+    "url": "https://batman.fandom.com/wiki/Batskiboat",
+    "type": "Vehicles",
+    "description": "TheBatskiboat[1]is a hydrofoil watercraft used by Batman. It was a single-seater and had a similar arsenal to theBatmobile, including torpedo launchers.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [
+        "rocket",
+        "torpedo"
+      ],
+      "defensive_systems": [],
+      "special_features": [
+        "radar"
+      ],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Batskiff",
+    "url": "https://batman.fandom.com/wiki/Batskiff",
+    "type": "Vehicles",
+    "description": "TheBatskiffwas a customIce Armorvehicle that was owned byBatman.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Batwing",
+    "url": "https://batman.fandom.com/wiki/Batwing",
+    "type": "Vehicles",
+    "description": "TheBatwingwasBatman's custom-built air combat vehicle. The craft was fully armed with mini-guns and missiles. It was unknown where the vehicle was stored, but it was presumably kept somewhere near the grounds ofWayne Manoror inside theBatcave.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [
+        "missile",
+        "laser",
+        "minigun"
+      ],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Batwing_(Batman_Forever)",
+    "url": "https://batman.fandom.com/wiki/Batwing_(Batman_Forever)",
+    "type": "Vehicles",
+    "description": "TheBatwingwas the second flying craft that was developed byBatman, following the destruction of theoriginal aircraftby theJoker. When it was not in use, the Batwing was stored in theBatcaveand hung upside down from the ceiling like a bat.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [
+        "laser"
+      ],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Batwing_(Matsudaverse)",
+    "url": "https://batman.fandom.com/wiki/Batwing_(Matsudaverse)",
+    "type": "Batplanes",
+    "description": "TheBatwingisBatman's aerial vehicle which he uses to fly with.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "British_Batmobile",
+    "url": "https://batman.fandom.com/wiki/British_Batmobile",
+    "type": "Vehicles",
+    "description": "TheBritish Batmobileis a road vehicle and the British counterpart of theBatmobile. It only appeared inBatman '66",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Catmobile",
+    "url": "https://batman.fandom.com/wiki/Catmobile",
+    "type": "Vehicles",
+    "description": "TheCatmobileis the cat-themed automobile owned byCatwomanandCatman, and the counterpart of theBatmobile.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [
+        "rocket"
+      ],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Cobblepot_Campaign_Trailer",
+    "url": "https://batman.fandom.com/wiki/Cobblepot_Campaign_Trailer",
+    "type": "Vehicles",
+    "description": "TheRed Triangle Gangstole one of theBat O' Ridecoin machines and rigged it so he could control the real Batmobile remotely using the steering wheel. The kiddie ride was hooked up to receivers on top of the trailer during the of the Relighting of the Tree inGotham Plaza. Penguin oversaw the kidnapping of theIce Princesswhile theBeacon Rodwas installed on theBatmobile. Penguin rocked the RV wildly back and forth while he wreaked havoc piloting the Batmobile from inside.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Compact",
+    "url": "https://batman.fandom.com/wiki/Compact",
+    "type": "Vehicles",
+    "description": "TheCompactwas a purple Mini Cooper compact car with the ability to transform into a smallBatmobilethat was give toStephanie BrownbyBatmanwhen she joinedBatman Incorporated.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "The_Duck",
+    "url": "https://batman.fandom.com/wiki/The_Duck",
+    "type": "Vehicles",
+    "description": "The Duckwas thePenguin's primary mode of transportation through the waterways in the sewers ofGotham. Originally a cable cart boat from theOld Zoo, Cobblepot modified it to function as an all-terrain vehicle.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [
+        "rocket"
+      ],
+      "defensive_systems": [],
+      "special_features": [
+        "radar"
+      ],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Freeze_Truck",
+    "url": "https://batman.fandom.com/wiki/Freeze_Truck",
+    "type": "Vehicles",
+    "description": "The truck later attacks theSave the Rainforest Costume Ballwith its freeze ray, and was then pursued by Batman and Robin in theBatmobileandRedbird. After landing safely on the roof of the Gotham Water and Power building, Mr. Freeze used the truck's freeze ray to freeze the Batmobile, but Batman ejects from the vehicle and crashes through the truck's windscreen, and captures Freeze. It was later impounded by the police after Freeze's arrest, but was later reclaimed by Freeze after he escapedArkham Asylumwith help fromPoison IvyandBane.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [
+        "missile",
+        "rocket",
+        "freeze ray",
+        "freeze gun"
+      ],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Gotham_City_Police_Cars",
+    "url": "https://batman.fandom.com/wiki/Gotham_City_Police_Cars",
+    "type": "Vehicles",
+    "description": "",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Huntress%27s_Motorcycle",
+    "url": "https://batman.fandom.com/wiki/Huntress%27s_Motorcycle",
+    "type": "Vehicles",
+    "description": "",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Joker_Goon_Car",
+    "url": "https://batman.fandom.com/wiki/Joker_Goon_Car",
+    "type": "Vehicles",
+    "description": "Joker Goon Carswere custom cars driven by theJoker Goons. The cars were 1978 Dodge 3700 GT sedans that were painted in theJoker's trademark colors; purple and green. The body was purple, with both the hood and tire rims green. Multi-colored lights were strung around the rear window, and fuzzy dice hung from the rear-view mirror.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Joker_Van",
+    "url": "https://batman.fandom.com/wiki/Joker_Van",
+    "type": "Vehicles",
+    "description": "Joker had a van that was personalized with his trademark colors of purple and green. It sat outside theFlugelheim MuseumwhenBatmanescaped withVicki Valein theBatmobile.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "The_Joker%27s_Helicopter",
+    "url": "https://batman.fandom.com/wiki/The_Joker%27s_Helicopter",
+    "type": "Vehicles",
+    "description": "The Joker's Helicopter was first used to escapeBatman'sassault onAxis Chemicalswith theBatmobile. Prior to that he was chauffeured in a purpleJoker Van.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Joker%27s_Train_(Matsudaverse)",
+    "url": "https://batman.fandom.com/wiki/Joker%27s_Train_(Matsudaverse)",
+    "type": "Vehicles",
+    "description": "It is designed to have the appearance of the Joker and first appeared when Joker knocked outBatman,RobinandBatgirland put them inside a cage, Joker used it to store the valuables Gotham citizens threw onto his ship while brainwashed by the train lights, as well as the Dynamic Trio'sutillity belts, Joker also revealed his plan of blowing upGotham Cityusing dynamite inside an cave, planning to have the city swallowed into a sinkhole, eventually Joker took off on the train while leaving them trapped, but they eventually got out with key and chased after the Joker inside theBatmobile, Joker escape...",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Jokercopter",
+    "url": "https://batman.fandom.com/wiki/Jokercopter",
+    "type": "Vehicles",
+    "description": "",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Jokermobile",
+    "url": "https://batman.fandom.com/wiki/Jokermobile",
+    "type": "Vehicles",
+    "description": "The Jokermobileis a vehicle owned by theJokerwhich he uses as a pastiche ofBatman'sBatmobile. It first appeared inBatman #37.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [
+        "missile",
+        "minigun"
+      ],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Jokermobile_(Dozierverse)",
+    "url": "https://batman.fandom.com/wiki/Jokermobile_(Dozierverse)",
+    "type": "Vehicles",
+    "description": "TheJokermobile(also known as theJokemobile) was theJoker's road transportation and the equivalent ofBatman'sBatmobile.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Knightcrawler",
+    "url": "https://batman.fandom.com/wiki/Knightcrawler",
+    "type": "Vehicles",
+    "description": "TheKnightcrawleris an unusual vehicleBatmanused to fight an army of parademons.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Liberty",
+    "url": "https://batman.fandom.com/wiki/Liberty",
+    "type": "Vehicles",
+    "description": "Whenthe Jokerannounced that he would ruleGotham Cityat midnight, the police began a massive evacuation of the city. However, the Joker implied that the tunnels and bridges were rigged with explosives, forcing the police to evacuate using ferries. The last ones to be loaded before midnight were theLiberty, which was carrying civilians, and theSpirit, which was carrying criminals.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "The_Lunar_Lady",
+    "url": "https://batman.fandom.com/wiki/The_Lunar_Lady",
+    "type": "Vehicles",
+    "description": "",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [],
+      "defensive_systems": [],
+      "special_features": [
+        "autopilot"
+      ],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Nightbird",
+    "url": "https://batman.fandom.com/wiki/Nightbird",
+    "type": "Vehicles",
+    "description": "TheNightbirdis the hi-tech car used byDick Grayson. Initially the Nightbird was a modified muscle car that Nightwing used as the protector ofBlüdhaven, but was later traded in for the current model when he returned toGotham City.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Penguin%27s_Pre-Nuclear_Submarine",
+    "url": "https://batman.fandom.com/wiki/Penguin%27s_Pre-Nuclear_Submarine",
+    "type": "Vehicles",
+    "description": "Briefly, the submarine was utilized by theUnited Underworldas a mobile base of operations during their efforts to obtain the invention ofCommodore Schmidlapp. They were able to capture the Commodore's Yacht, imprisoning the Commodore in the hold, and establish a holographic replica of the yacht to lureBatmanandRobininto a trap. Later the submarine was used to attack Batman and Robin while they investigated aboard theBatboat.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [
+        "missile",
+        "torpedo"
+      ],
+      "defensive_systems": [],
+      "special_features": [
+        "sonar"
+      ],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Raven_X1-11",
+    "url": "https://batman.fandom.com/wiki/Raven_X1-11",
+    "type": "Vehicles",
+    "description": "It is likely that, after the Raven fiasco, Wayne Enterprises abandoned weapons manufacture. By the time of Wayne's brief partnership with LexCorp, Wayne was adamant that his company would not be party to military uses of his technology.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [
+        "cannon",
+        "laser",
+        "chain gun"
+      ],
+      "defensive_systems": [
+        "cloaking device"
+      ],
+      "special_features": [
+        "sonar",
+        "radar"
+      ],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Red_Roadster",
+    "url": "https://batman.fandom.com/wiki/Red_Roadster",
+    "type": "Vehicles",
+    "description": "TheRed Roadsterwas a road vehicle drivenBatmanin his first appearance in the comics.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Red_Triangle_Circus_motorcycle",
+    "url": "https://batman.fandom.com/wiki/Red_Triangle_Circus_motorcycle",
+    "type": "Vehicles",
+    "description": "",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Red_Triangle_Circus_Train",
+    "url": "https://batman.fandom.com/wiki/Red_Triangle_Circus_Train",
+    "type": "Vehicles",
+    "description": "TheRed Triangle Circus Trainwas a vehicle that thePenguin'sRed Triangle Gangused to snatch the first-born sons ofGotham City. It pulled five empty wagons behind it.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Redbird",
+    "url": "https://batman.fandom.com/wiki/Redbird",
+    "type": "Vehicles",
+    "description": "TheRedbirdis a camouflaged sport coupé with all the armaments of theBatmobile. In addition to that, there are polarizing windows and exterior sliding bulletproof conversion panels, enabling it to be driven by an uncostumedTim Drakeas a \"normal\" car.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [],
+      "defensive_systems": [
+        "bulletproof"
+      ],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Redbird_(Batman_%26_Robin)",
+    "url": "https://batman.fandom.com/wiki/Redbird_(Batman_%26_Robin)",
+    "type": "Vehicles",
+    "description": "AfterMr. Freezestole a diamond necklace from a charity ball,Batmanand Robin chased after him, with Batman in theBatmobileand Robin on the Redbird. They chased Freeze down a giant statue's arm, and with the fingers at the end, Freeze used those fingers as a jump. Batman realised that Robin couldn't make the jump, so he insisted Robin stand down, but Robin repeatedly refused. When they got closer to the jump, Batman shut down the Redbird from the Batmobile using the remote engine deactivation feature. Batman safely made the jump, but while the Batmobile didn't survive, the Caped Crusader ejected...",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Ricochet",
+    "url": "https://batman.fandom.com/wiki/Ricochet",
+    "type": "Vehicles",
+    "description": "",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Riot_Tank_Batmobile",
+    "url": "https://batman.fandom.com/wiki/Riot_Tank_Batmobile",
+    "type": "Vehicles",
+    "description": "Before being forced into retirement,Batmanbuilt this tank to deal with a period of extreme rioting in the city. Unlike his small standardflying Batmobiles, this vehicle is massive, withcaterpillar tracksand functions as a ground AFV only.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Robin%27s_Motorcycle",
+    "url": "https://batman.fandom.com/wiki/Robin%27s_Motorcycle",
+    "type": "Vehicles",
+    "description": "Robin's Motorcyleis a customized vehicle utilized by the variousRobinsand their personal transport. Often depected as a red version of theBatcycle, it allows the Boy Wonder to travel independant of theBatmobileand through narrow corners ofGotham City. The Robin Cycle has often been utilized byDick Graysonin his later career as both Robin and occasionally asNightwing, andTim Drakeafter he joined the Batman family.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Scarecrow%27s_Glider",
+    "url": "https://batman.fandom.com/wiki/Scarecrow%27s_Glider",
+    "type": "Aircrafts",
+    "description": "The Scarecrow used this glider to escape Batman. When he returned to his factory, Scarecrow crashed the glider nose first onto the ground when he landed.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Scarecrow%27s_Zeppelin",
+    "url": "https://batman.fandom.com/wiki/Scarecrow%27s_Zeppelin",
+    "type": "Aircrafts",
+    "description": "",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Signal-cycle",
+    "url": "https://batman.fandom.com/wiki/Signal-cycle",
+    "type": "Vehicles",
+    "description": "",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Spirit",
+    "url": "https://batman.fandom.com/wiki/Spirit",
+    "type": "Vehicles",
+    "description": "Whenthe Jokerannounced that he would ruleGotham Cityat midnight, the police began a massive evacuation of the city. However, the Joker implied that the tunnels and bridges were rigged with explosives, forcing the police to evacuate using ferries. The last ones to be loaded before midnight were theLiberty, which was carrying civilians, and theSpirit, which was carrying criminals. Commissioner Gordon wanted to get some criminals off the island, as he did not want them to take part in whatever the Joker was planning.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Two-Face%27s_Helicopter",
+    "url": "https://batman.fandom.com/wiki/Two-Face%27s_Helicopter",
+    "type": "Vehicles",
+    "description": "Two-Face's Helicopteris an aircraft used byTwo-Faceduring theSecond Bank of Gotham Heist.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Whirly-Bat",
+    "url": "https://batman.fandom.com/wiki/Whirly-Bat",
+    "type": "Vehicles",
+    "description": "",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Wingcycle",
+    "url": "https://batman.fandom.com/wiki/Wingcycle",
+    "type": "Vehicles",
+    "description": "TheWingcycleis the hi-tech motorcycleDick Graysonused as Nightwing. Originally a white, gold, and blue motorcycle with a sidecar for a second passenger, the Wingcycle was upgraded to a more advanced black-and-blue version with a Nightwing-symbol headlight.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "1996_Batmobile",
+    "url": "https://batman.fandom.com/wiki/1996_Batmobile",
+    "type": "",
+    "description": "In January of 1996 thisBatmobilewas introduced and ended up being the longest standing single Batmobile until its destruction during theearthquake, along with the oldBatcave.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Batmobile_(New_52)",
+    "url": "https://batman.fandom.com/wiki/Batmobile_(New_52)",
+    "type": "",
+    "description": "A new standardBatmobilewas created for the New 52 comics.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Batmobile_of_1950",
+    "url": "https://batman.fandom.com/wiki/Batmobile_of_1950",
+    "type": "",
+    "description": "TheBatmobile of 1950is one of the best known comic bookBatmobiles.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Breyfogle_Batmobile_Mk.III",
+    "url": "https://batman.fandom.com/wiki/Breyfogle_Batmobile_Mk.III",
+    "type": "",
+    "description": "ThisBatmobilewas used byJean-Paul ValleyasBatmanin the early to mid 90s. This is also the primary vehicleBruce Waynewas using at the time of his defeat byBane. This car was succeeded by the1996 Batmobileafter its destruction.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [],
+      "defensive_systems": [],
+      "special_features": [
+        "self-destruct"
+      ],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "New_Look_Batmobile",
+    "url": "https://batman.fandom.com/wiki/New_Look_Batmobile",
+    "type": "",
+    "description": ".TheNew Look Batmobilewas introduced in 1964 in preparation for the developingtelevision show, creating a car that would be easier to translate and more maneuverable for stunt drivers likeHubie Kerns.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Batplane_(DC_Animated_Universe)",
+    "url": "https://batman.fandom.com/wiki/Batplane_(DC_Animated_Universe)",
+    "type": "Aircrafts",
+    "description": "TheBatplaneorBatwingwas the aircraft used byBatmanin the DC Animated Universe.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [
+        "missile"
+      ],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Batplane_(Dozierverse)",
+    "url": "https://batman.fandom.com/wiki/Batplane_(Dozierverse)",
+    "type": "Batplanes",
+    "description": "",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Batplane_(Filmation)",
+    "url": "https://batman.fandom.com/wiki/Batplane_(Filmation)",
+    "type": "Batplanes",
+    "description": "TheBatplaneis the customised aircraft used by Batman and Robin.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Batwing_(Arkhamverse)",
+    "url": "https://batman.fandom.com/wiki/Batwing_(Arkhamverse)",
+    "type": "Aircrafts",
+    "description": "TheBatwingisBatman's personal aircraft. He sometimes traveled in it as an alternative to theBatmobile, and it could also be controlled remotely to deliver items. An example of that was when Batman summoned the Batwing to deliver the Line Launcher inBatman: Arkham Asylum, theBatsuitand the upgraded Grapnel Gun inBatman: Arkham City, the cure to stopCopperhead's poison inBatman: Arkham Origins, and the XE Suit inCold, Cold Heart.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Batwing_(Snyderverse)",
+    "url": "https://batman.fandom.com/wiki/Batwing_(Snyderverse)",
+    "type": "Batplanes",
+    "description": "TheBatwing(sometimes referred to as theBatplane) was an aircraft used byBatman. It was often used to patrol the skies ofGothamand battle enemies via the air. The Batwing could also be controlled remotely from theBatcave computer system. The Batwing was used during Batman's alliance withSupermanand theJustice League.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Batwing_(The_Flash)",
+    "url": "https://batman.fandom.com/wiki/Batwing_(The_Flash)",
+    "type": "Batplanes",
+    "description": "TheBatwingwas a custom aircraft used byBatmanto fly around the airspace ofGothamand travel internationally at short notice. The craft was created afterits predecessorwas destroyed in a confrontation withthe Joker. Batman made use of the Batwing after coming out of retirement to helpthe FlashfreeSupergirland battleGeneral Zod.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Batboat_(Beware_the_Batman)",
+    "url": "https://batman.fandom.com/wiki/Batboat_(Beware_the_Batman)",
+    "type": "Beware the Batman Vehicles",
+    "description": "TheBatboatis the water transportation used byBatmanand Katana. It only appeared in the comic book series based the TV series with the same name.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [],
+      "defensive_systems": [],
+      "special_features": [
+        "submarine mode"
+      ],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Batboat_(Filmation)",
+    "url": "https://batman.fandom.com/wiki/Batboat_(Filmation)",
+    "type": "",
+    "description": "TheBatboatis the personal watercraft used by Batman and Robin.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [],
+      "defensive_systems": [],
+      "special_features": [
+        "submarine mode"
+      ],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Final_Offer",
+    "url": "https://batman.fandom.com/wiki/Final_Offer",
+    "type": "",
+    "description": "TheFinal Offeris a large ship owned by Penguin. It was stationed at Amusement Mile duringBatman: Arkham Origins. The ship's whereabouts after the incident was unknown.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Batmobile_(Beware_the_Batman)",
+    "url": "https://batman.fandom.com/wiki/Batmobile_(Beware_the_Batman)",
+    "type": "",
+    "description": "TheBatmobileis the main road transportation used byBatmaninBeware the Batman.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Batmobile_(Dozierverse)",
+    "url": "https://batman.fandom.com/wiki/Batmobile_(Dozierverse)",
+    "type": "",
+    "description": "TheBatmobilewas the Dynamic Duo's main road transportation.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [
+        "rocket",
+        "laser"
+      ],
+      "defensive_systems": [
+        "bulletproof"
+      ],
+      "special_features": [
+        "radar"
+      ],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Batmobile_(Filmation)",
+    "url": "https://batman.fandom.com/wiki/Batmobile_(Filmation)",
+    "type": "",
+    "description": "TheBatmobileis the main road transportation used byBatmanandRobininThe Adventures of BatmanandThe New Adventures of Batman. It was the first Batmobile to appear in animation.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Batmobile_(The_New_Batman_Adventures)",
+    "url": "https://batman.fandom.com/wiki/Batmobile_(The_New_Batman_Adventures)",
+    "type": "",
+    "description": "Batman's third Batmobile. It was shorter in length and wider than thesecond Batmobile, with a similar sliding visor cockpit.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Batmobile_(Under_the_Red_Hood)",
+    "url": "https://batman.fandom.com/wiki/Batmobile_(Under_the_Red_Hood)",
+    "type": "",
+    "description": "TheBatmobileis Batman's primary source of transportation.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [],
+      "defensive_systems": [
+        "bulletproof"
+      ],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Turbocharge_Tumbler",
+    "url": "https://batman.fandom.com/wiki/Turbocharge_Tumbler",
+    "type": "",
+    "description": "Alfreduses this Tumbler to pick up Batman from a sewer after he was wounded by gunshots from a homeless man. It resembles the1989 Batmobilein this short, therefore it may well be a different vehicle entirely.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Batmobile_(Batman_%26_Robin)",
+    "url": "https://batman.fandom.com/wiki/Batmobile_(Batman_%26_Robin)",
+    "type": "",
+    "description": "ThatBatmobilewas the third known model that was used byBatmanin the feature film series.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Batmobile_(Batman_Live)",
+    "url": "https://batman.fandom.com/wiki/Batmobile_(Batman_Live)",
+    "type": "",
+    "description": "",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Batmobile_(Snyderverse)",
+    "url": "https://batman.fandom.com/wiki/Batmobile_(Snyderverse)",
+    "type": "",
+    "description": "TheBatmobilewas a customized car used byBatmanin his operations. Presumably created by the vigilante, it was often used to patrol the streets and chase after criminals. The Batmobile was frequently used during Batman's operations involvingSupermanand theJustice League.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [
+        "machine gun"
+      ],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Batmobile_(The_Batman_Saga)",
+    "url": "https://batman.fandom.com/wiki/Batmobile_(The_Batman_Saga)",
+    "type": "",
+    "description": "TheBatmobile[1][2]was an armored muscle car used by theBatmanto traverseGotham Cityand chase criminals.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [],
+      "defensive_systems": [
+        "bulletproof"
+      ],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Black_Tumbler",
+    "url": "https://batman.fandom.com/wiki/Black_Tumbler",
+    "type": "Dark Knight Trilogy vehicles",
+    "description": "ABlack Tumblerwas used byBatman.Tumblerswere a military prototype, off-road tank vehicles. Batman's black Tumbler came custom with an array of weapons and gadgets.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [
+        "machine gun",
+        "missile",
+        "rocket"
+      ],
+      "defensive_systems": [
+        "armor plating",
+        "stealth mode"
+      ],
+      "special_features": [
+        "self-destruct"
+      ],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Batmobile_(Telltale)",
+    "url": "https://batman.fandom.com/wiki/Batmobile_(Telltale)",
+    "type": "",
+    "description": "TheBatmobilewasBatman's personal method of transportation. Developed by both the Dark Knight andLucius Fox, the car came equipped with multiple gadgets and equipment to aid Batman in fighting crime.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [],
+      "defensive_systems": [],
+      "special_features": [
+        "remote control"
+      ],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Batmobile_(Batman_&_Robin)",
+    "url": "https://batman.fandom.com/wiki/Batmobile_(Batman_&_Robin)",
+    "type": "",
+    "description": "ThatBatmobilewas the third known model that was used byBatmanin the feature film series.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Batmobile_(The_Batman)",
+    "url": "https://batman.fandom.com/wiki/Batmobile_(The_Batman)",
+    "type": "Vehicles",
+    "description": "In the animated seriesThe Batman, theBatmobileresembled a sports coupe with multiple jet exhaust slits protruding from the back bumper. When the first Batmobile wasn’t fast enough to stop the speed demon Gearhead (and also not able to be repaired after a massive accident), Batman upgraded his wheels with both a much faster engine and a far lighter chassis. With more speed behind him, Gearhead was no match for The Batman.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Tumbler",
+    "url": "https://batman.fandom.com/wiki/Tumbler",
+    "type": "Dark Knight Trilogy vehicles",
+    "description": "ABlack Tumblerwas used byBatman.Tumblerswere a military prototype, off-road tank vehicles. Batman's black Tumbler came custom with an array of weapons and gadgets.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [
+        "machine gun",
+        "missile",
+        "rocket"
+      ],
+      "defensive_systems": [
+        "armor plating",
+        "stealth mode"
+      ],
+      "special_features": [
+        "self-destruct"
+      ],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  },
+  {
+    "name": "Bat-Gyro",
+    "url": "https://batman.fandom.com/wiki/Bat-Gyro",
+    "type": "Vehicles",
+    "description": "TheBatgyrowas first air-based vehicle used byBatmanin his operations. It was the first vehicle to bare abat-style, predating theBatmobile. The Batgyro served as a prototype for theBatplane, with it later abandoned in favor of both it and the similarBatcopters.",
+    "specifications": {
+      "length": "",
+      "width": "",
+      "height": "",
+      "weight": "",
+      "max_speed": "",
+      "engine": "",
+      "armor": "",
+      "crew_capacity": "",
+      "weapons": [],
+      "defensive_systems": [],
+      "special_features": [],
+      "manufacturer": "",
+      "first_appearance": ""
+    },
+    "aliases": [],
+    "users": [],
+    "appearances": []
+  }
+]

@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+chatbot_env/
+ENV/
+env.bak/
+venv.bak/
+
+# Flask
+instance/
+.webassets-cache
+
+# Database
+*.db-journal
+
+# Logs
+*.log
+batman_startup.log
+batman_restart.log
+web_app.log
+web_server.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test results
+comprehensive_test_results_*.json
+systematic_fixes_test_results_*.json
+
+# Temporary files
+cookies.txt
+debug_*.py
+test_*.py
+final_issue*.py
+simple_test.py
+
+# Large data files (keep master database, exclude partials)
+scraper/data/batman_*_partial_*.json
+scraper/data/test_*.json
+scraper/data/batman_*_MERGED.json
+scraper/data/batman_*_comprehensive.json
+
+# Scraper logs
+scraper/*.log

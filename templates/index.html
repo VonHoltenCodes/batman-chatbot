@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Batman Chatbot, BatComputer, Gotham Database - CLI Terminal Interface">
+    <title>BatChatBot - Accessing Gotham's Database...</title>
+    
+    <!-- Google Fonts - IBM Plex Mono -->
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;700&display=swap" rel="stylesheet">
+    
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/terminal.css') }}">
+</head>
+<body>
+    <!-- Header -->
+    <header class="terminal-header">
+        <div class="container">
+            <!-- Logo and System Info Side by Side -->
+            <div class="header-layout">
+                <!-- Left Side: ASCII Logo -->
+                <div class="logo-section">
+                    <pre class="ascii-logo-massive">
+ ██████╗  █████╗ ████████╗ ██████╗██╗  ██╗ █████╗ ████████╗██████╗  ██████╗ ████████╗
+██╔═══██╗██╔══██╗╚══██╔══╝██╔════╝██║  ██║██╔══██╗╚══██╔══╝██╔══██╗██╔═══██╗╚══██╔══╝
+██████╔╝ ███████║   ██║   ██║     ███████║███████║   ██║   ████████║██║   ██║   ██║   
+██╔═══██╗██╔══██║   ██║   ██║     ██╔══██║██╔══██║   ██║   ██╔══██║██║   ██║   ██║   
+██████╔╝ ██║  ██║   ██║   ╚██████╗██║  ██║██║  ██║   ██║   ████████║╚██████╔╝   ██║   
+╚═════╝  ╚═╝  ╚═╝   ╚═╝    ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═══════╝ ╚═════╝    ╚═╝   
+
+██╗   ██╗██████╗  ██████╗  ███████╗
+██║   ██║██╔══██╗██╔═══██╗ ██╔════╝
+██║   ██║██████╔╝██║   ██║ ██████╗ 
+╚██╗ ██╔╝██╔══██╗██║   ██║ ██╔══██╗
+ ╚████╔╝ ██████╔╝╚██████╔╝ ███████║
+  ╚═══╝  ╚═════╝  ╚═════╝  ╚══════╝</pre>
+                </div>
+                
+                <!-- Right Side: System Info -->
+                <div class="system-info-section">
+                    <pre class="system-display">
+🦇 GOTHAM DATABASE ACCESS TERMINAL 🦇
+    >>> CONNECTING TO BATCOMPUTER <<<
+[████████████████████████████████████] 100%
+
+═══════════════════════════════════════════════
+░  Batman Universe Intelligence System  v2.0  ░
+░  1,056 Entities • 89.3% Intelligence Rate  ░  
+░  Systematic Fixes: 6/6 ✓ • Ready Status   ░
+═══════════════════════════════════════════════
+
+>> SYSTEM STATUS: ONLINE
+>> DATABASE: 685 Characters Loaded
+>> ENTITIES: 1,056 Total Indexed
+>> ACCURACY: 89.3% (Fan Estimate)
+>> INTELLIGENCE: World-Class Batman Expert
+>> SESSION: {{ stats.uptime or 'Active' }}
+>> LAST_UPDATE: June 1, 2025
+
+>> ACCESS_LEVEL: Full Gotham Database
+>> SECURITY: BatComputer Authenticated
+>> MODE: Expert Batman Intelligence
+>> READY: Awaiting Query Input...</pre>
+                </div>
+            </div>
+            
+            <nav class="terminal-nav">
+                <span class="nav-command">> access_granted</span>
+                <span class="nav-command">> gotham_database</span>
+                <span class="nav-command">> batman_intel</span>
+            </nav>
+            <div class="tagline">
+                <span class="blinking">BatComputer Online</span><span class="cursor">█</span>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="main-content">
+        <div class="container">
+            <!-- Stats Container -->
+            <div class="terminal-window stats-container">
+                <div class="window-header">
+                    <span class="window-title">═══════[ BatComputer: Database Stats ]═══════</span>
+                </div>
+                <div class="window-content">
+                    <div class="stats-section">
+                        <div class="section-title">>> System Status</div>
+                        <div class="stat-line">> uptime: {{ stats.uptime or '99.9%' }}</div>
+                        <div class="stat-line">> queries_processed: {{ stats.queries_processed or '10,000+' }}</div>
+                        <div class="stat-line">> last_update: {{ stats.last_update or 'June 1, 2025' }}</div>
+                        
+                        <div class="divider">────────────────────────────────</div>
+                        
+                        <div class="section-title">>> Chatbot Performance</div>
+                        <div class="stat-line accuracy">> accuracy: <span class="highlight">{{ stats.accuracy or '89.0%' }}</span> (Fan-Made Estimate)</div>
+                        <div class="stat-line disclaimer">> accuracy not guaranteed, see disclaimer</div>
+                        
+                        <div class="divider">────────────────────────────────</div>
+                        
+                        <div class="section-title">>> Database Scope</div>
+                        <div class="stat-line">> {{ stats.characters or '685' }} Characters</div>
+                        <div class="stat-line">> {{ stats.vehicles or '120' }} Vehicles</div>
+                        <div class="stat-line">> {{ stats.locations or '112' }} Locations</div>
+                        <div class="stat-line">> {{ stats.storylines or '13' }} Storylines</div>
+                        <div class="stat-line">> {{ stats.organizations or '126' }} Organizations</div>
+                        <div class="stat-line total">> Total: <span class="highlight">{{ stats.total_entities or '1,056' }}+ Entities</span></div>
+                        
+                        <div class="divider">────────────────────────────────</div>
+                        
+                        <div class="section-title">>> Data Source</div>
+                        <div class="stat-line">> Data sourced from batman.fandom.com</div>
+                        <div class="stat-line">> Thanks to the Batman fan community</div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Chatbot Container -->
+            <div class="terminal-window chat-container">
+                <div class="window-header">
+                    <span class="window-title">═══════[ BatComputer: Query Interface ]═══════</span>
+                </div>
+                <div class="window-content">
+                    <div class="batcomputer-indicator">
+                        <span class="indicator-text">[ BatComputer ]</span><span class="cursor blinking">█</span>
+                    </div>
+                    
+                    <div class="disclaimer">
+                        <div class="disclaimer-line">> Disclaimer: This is fan art, not intended for 100% accuracy.</div>
+                        <div class="disclaimer-line">> Use for entertainment purposes only.</div>
+                    </div>
+                    
+                    <div class="chat-area" id="chatArea">
+                        <div class="welcome-message">
+                            <div class="system-line">>> BatComputer Online. Gotham Database Accessible.</div>
+                            <div class="system-line">>> {{ stats.total_entities or '1,056' }} entities loaded. Ready for queries.</div>
+                            <div class="system-line">>> Type your Batman-related question below...</div>
+                        </div>
+                    </div>
+                    
+                    <div class="input-section">
+                        <div class="session-controls">
+                            <button id="newSessionBtn" class="session-btn">
+                                >> new_session
+                            </button>
+                            <span class="session-status" id="sessionStatus">Session: Loading...</span>
+                        </div>
+                        <div class="input-line">
+                            <span class="prompt">> </span>
+                            <input type="text" id="queryInput" class="terminal-input" 
+                                   placeholder="Enter query (e.g., 'Who is Joker?') or number for selection" 
+                                   autocomplete="off">
+                            <span class="input-cursor">█</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <!-- Matrix Background -->
+    <div class="matrix-background" id="matrixBackground"></div>
+
+    <!-- Footer -->
+    <footer class="terminal-footer">
+        <div class="container">
+            <div class="footer-content">
+                <span class="footer-text">═══[ Powered by BatComputerAI | © 2025 BatChatBot ]═══</span>
+                <div class="footer-links">
+                    <span class="footer-command">> <a href="https://github.com/VonHoltenCodes" target="_blank" class="footer-link">
+                        <svg width="12" height="12" viewBox="0 0 24 24" fill="currentColor">
+                            <path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/>
+                        </svg> VonHoltenCodes</a></span>
+                    <span class="footer-command">> <a href="https://x.com/308Greenfield" target="_blank" class="footer-link">
+                        <svg width="12" height="12" viewBox="0 0 24 24" fill="currentColor">
+                            <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/>
+                        </svg> @308Greenfield</a></span>
+                    <span class="footer-command">> <a href="https://batman.fandom.com" target="_blank" class="footer-link">batman.fandom</a></span>
+                </div>
+                <div class="footer-memorial">
+                    <span class="memorial-text">In loving memory of Ryan Wasson, a true super hero ⭐</span>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Loading Overlay -->
+    <div class="loading-overlay" id="loadingOverlay">
+        <div class="loading-content">
+            <pre class="bat-ascii">
+██████╗  █████╗ ████████╗███╗   ███╗ █████╗ ███╗   ██╗
+██╔══██╗██╔══██╗╚══██╔══╝████╗ ████║██╔══██╗████╗  ██║
+██████╔╝███████║   ██║   ██╔████╔██║███████║██╔██╗ ██║
+██╔══██╗██╔══██║   ██║   ██║╚██╔╝██║██╔══██║██║╚██╗██║
+██████╔╝██║  ██║   ██║   ██║ ╚═╝ ██║██║  ██║██║ ╚████║
+╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝</pre>
+            <div class="loading-text">
+                <span class="blinking">Initializing BATMAN</span><span class="cursor">█</span>
+            </div>
+        </div>
+    </div>
+
+    <!-- JavaScript -->
+    <script src="{{ url_for('static', filename='js/terminal.js') }}"></script>
+</body>
+</html>

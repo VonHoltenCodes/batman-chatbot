@@ -1,0 +1,406 @@
+[
+  {
+    "id": "storyline_1",
+    "name": "Batman_%26_Son",
+    "type": "storyline",
+    "url": "https://batman.fandom.com/wiki/Batman_%26_Son",
+    "description": "After returning from a trip across the world with Nightwing and Robin, Batman meets his alleged son, Damian al Ghul, who's mother is Ra's al Ghul's daughter, Talia al Ghul. Damian lives with the Dark Knight for a while, expressing his interest in replacing Tim Drake as Robin.",
+    "simple_summary": "After returning from a trip across the world with Nightwing and Robin, Batman meets his alleged son, Damian al Ghul, who's mother is Ra's al Ghul's daughter, Talia al Ghul. Damian lives with the Dark Knight for a while, expressing his interest in replacing Tim Drake as Robin.",
+    "category": "\nComics\n",
+    "details": {
+      "publication_year": "",
+      "story_type": "",
+      "timeline_era": "",
+      "main_characters": [
+        "batman",
+        "robin",
+        "tim drake",
+        "nightwing"
+      ],
+      "main_villains": [
+        "ra's al ghul",
+        "talia al ghul"
+      ],
+      "key_events": [],
+      "consequences": "",
+      "reading_order": "",
+      "complexity_level": "simple"
+    },
+    "related_stories": [],
+    "source_file": "batman_storylines_COMPLETE.json"
+  },
+  {
+    "id": "storyline_2",
+    "name": "Batman_R.I.P.",
+    "type": "storyline",
+    "url": "https://batman.fandom.com/wiki/Batman_R.I.P.",
+    "description": "Batman R.I.P.is a graphic novel containing the story arc originally printed in DC Comic issues #676-683. In 2009 it was reprinted in a deluxe hardcover edition.",
+    "simple_summary": "Batman R.I.P.is a graphic novel containing the story arc originally printed in DC Comic issues #676-683. In 2009 it was reprinted in a deluxe hardcover edition.",
+    "category": "\nComics\n",
+    "details": {
+      "publication_year": "",
+      "story_type": "",
+      "timeline_era": "",
+      "main_characters": [
+        "batman",
+        "bruce wayne",
+        "robin",
+        "dick grayson",
+        "tim drake",
+        "jason todd"
+      ],
+      "main_villains": [
+        "joker",
+        "two-face",
+        "penguin",
+        "catwoman"
+      ],
+      "key_events": [
+        "death"
+      ],
+      "consequences": "",
+      "reading_order": "",
+      "complexity_level": "simple"
+    },
+    "related_stories": [],
+    "source_file": "batman_storylines_COMPLETE.json"
+  },
+  {
+    "id": "storyline_3",
+    "name": "Battle_for_the_Cowl",
+    "type": "storyline",
+    "url": "https://batman.fandom.com/wiki/Battle_for_the_Cowl",
+    "description": "In the aftermath of the apparent death ofBatman,Gotham Citybecomes the site of a three-way war asTwo-Face, ThePenguin, andBlack Maskstruggle for dominance. With theGotham City Police Departmentcrumbling under the pressure, the Bat Family calls in help, all the while struggling to determine the answer to the big question: who will assume the mantle of the Bat?",
+    "simple_summary": "In the aftermath of the apparent death ofBatman,Gotham Citybecomes the site of a three-way war asTwo-Face, ThePenguin, andBlack Maskstruggle for dominance",
+    "category": "\nComics\n",
+    "details": {
+      "publication_year": "",
+      "story_type": "",
+      "timeline_era": "",
+      "main_characters": [
+        "batman",
+        "robin",
+        "tim drake",
+        "jason todd",
+        "damian wayne",
+        "nightwing"
+      ],
+      "main_villains": [
+        "two-face",
+        "penguin",
+        "catwoman",
+        "poison ivy"
+      ],
+      "key_events": [
+        "death"
+      ],
+      "consequences": "",
+      "reading_order": "",
+      "complexity_level": "simple"
+    },
+    "related_stories": [],
+    "source_file": "batman_storylines_COMPLETE.json"
+  },
+  {
+    "id": "storyline_4",
+    "name": "Final_Crisis",
+    "type": "storyline",
+    "url": "https://batman.fandom.com/wiki/Final_Crisis",
+    "description": "However, Darkseid had underestimated the resolve of Batman. Recognizing Darkseid's existence as a threat, Batman made a once-in-a-lifetime exception and used a gun to fire the radion bullet Darkseid had used to kill Orion. Darkseid was hit with the radion bullet, but not before he unleashed the Omega Sanction, the \"death that is life\", upon Batman. Superman then returned to New Earth, breaking through Darkseid's forces and finding what appeared to be Batman's corpse. As Darkseid mocked his old enemy and fired the bullet that killed Orion, Barry Allen and Wally West lead the Black Racer to Darkseid, who removed his soul from Dan Turpin. Superman allied with the Secret Society under Lex Luthor and Doctor Sivana, managing to break the Anti-Life Equation's hold over Wonder Woman, who in turn b...",
+    "simple_summary": "Recognizing Darkseid's existence as a threat, Batman made a once-in-a-lifetime exception and used a gun to fire the radion bullet Darkseid had used to kill Orion. Darkseid was hit with the radion bullet, but not before he unleashed the Omega Sanction, the \"death that is life\", upon Batman. Superman then returned to New Earth, breaking through Darkseid's forces and finding what appeared to be Batman's corpse. As Darkseid mocked his old enemy and fired the bullet that killed Orion, Barry Allen and...",
+    "category": "\nComics\n",
+    "details": {
+      "publication_year": "",
+      "story_type": "",
+      "timeline_era": "",
+      "main_characters": [
+        "batman",
+        "bruce wayne"
+      ],
+      "main_villains": [],
+      "key_events": [
+        "death"
+      ],
+      "consequences": "",
+      "reading_order": "",
+      "complexity_level": "moderate"
+    },
+    "related_stories": [],
+    "source_file": "batman_storylines_COMPLETE.json"
+  },
+  {
+    "id": "storyline_5",
+    "name": "Judgment_on_Gotham",
+    "type": "storyline",
+    "url": "https://batman.fandom.com/wiki/Judgment_on_Gotham",
+    "description": "Judgment on Gothamis a 2011 comic book story arc that ran through monthly series. The story depicts Azrael, as he sees Gotham City as the modern day Sodom and Gomorrah, and they only way to purify the city from its sins is to destroy it. But standing in Azrael's way will be the likes of Dick Grayson, Tim Drake and Selina Kyle.",
+    "simple_summary": "Judgment on Gothamis a 2011 comic book story arc that ran through monthly series. The story depicts Azrael, as he sees Gotham City as the modern day Sodom and Gomorrah, and they only way to purify the city from its sins is to destroy it. But standing in Azrael's way will be the likes of Dick Grayson, Tim Drake and Selina Kyle.",
+    "category": "\nComics\n",
+    "details": {
+      "publication_year": "",
+      "story_type": "",
+      "timeline_era": "",
+      "main_characters": [
+        "batman",
+        "robin",
+        "dick grayson",
+        "tim drake"
+      ],
+      "main_villains": [
+        "ra's al ghul"
+      ],
+      "key_events": [
+        "death"
+      ],
+      "consequences": "",
+      "reading_order": "",
+      "complexity_level": "simple"
+    },
+    "related_stories": [],
+    "source_file": "batman_storylines_COMPLETE.json"
+  },
+  {
+    "id": "storyline_6",
+    "name": "Knightfall",
+    "type": "storyline",
+    "url": "https://batman.fandom.com/wiki/Knightfall",
+    "description": "\"Knightfall\"is a story arc published from April 1993 to August 1994. The series coversBruce Wayne's defeat byBaneandJean-Paul Valleybecoming the new Dark Knight. The series has been subsequently republished a trilogy of storylines with \"KnightQuest\" and \"KnightsEnd\".",
+    "simple_summary": "\"Knightfall\"is a story arc published from April 1993 to August 1994. The series coversBruce Wayne's defeat byBaneandJean-Paul Valleybecoming the new Dark Knight. The series has been subsequently republished a trilogy of storylines with \"KnightQuest\" and \"KnightsEnd\".",
+    "category": "\nComics\n",
+    "details": {
+      "publication_year": "",
+      "story_type": "",
+      "timeline_era": "",
+      "main_characters": [
+        "batman",
+        "bruce wayne",
+        "robin",
+        "dick grayson",
+        "tim drake",
+        "jason todd"
+      ],
+      "main_villains": [
+        "joker",
+        "two-face",
+        "riddler",
+        "catwoman"
+      ],
+      "key_events": [
+        "death"
+      ],
+      "consequences": "",
+      "reading_order": "",
+      "complexity_level": "simple"
+    },
+    "related_stories": [],
+    "source_file": "batman_storylines_COMPLETE.json"
+  },
+  {
+    "id": "storyline_7",
+    "name": "The_Penguin_Affair",
+    "type": "storyline",
+    "url": "https://batman.fandom.com/wiki/The_Penguin_Affair",
+    "description": "The Penguin Affairis a Batman and Detective Comics comic book story arc first published in the early 1990s. It ran inBatman#448-449andDetective Comics #615, published in 1990.",
+    "simple_summary": "The Penguin Affairis a Batman and Detective Comics comic book story arc first published in the early 1990s. It ran inBatman#448-449andDetective Comics #615, published in 1990.",
+    "category": "\nComics\n",
+    "details": {
+      "publication_year": "",
+      "story_type": "",
+      "timeline_era": "",
+      "main_characters": [
+        "batman"
+      ],
+      "main_villains": [
+        "penguin"
+      ],
+      "key_events": [],
+      "consequences": "",
+      "reading_order": "",
+      "complexity_level": "simple"
+    },
+    "related_stories": [],
+    "source_file": "batman_storylines_COMPLETE.json"
+  },
+  {
+    "id": "storyline_8",
+    "name": "Gotham_High",
+    "type": "storyline",
+    "url": "https://batman.fandom.com/wiki/Gotham_High",
+    "description": "",
+    "simple_summary": "",
+    "category": "\nComics\n",
+    "details": {
+      "publication_year": "",
+      "story_type": "",
+      "timeline_era": "",
+      "main_characters": [
+        "bruce wayne"
+      ],
+      "main_villains": [],
+      "key_events": [],
+      "consequences": "",
+      "reading_order": "",
+      "complexity_level": "simple"
+    },
+    "related_stories": [],
+    "source_file": "batman_storylines_COMPLETE.json"
+  },
+  {
+    "id": "storyline_9",
+    "name": "Batman:_Cataclysm",
+    "type": "storyline",
+    "url": "https://batman.fandom.com/wiki/Batman:_Cataclysm",
+    "description": "",
+    "simple_summary": "",
+    "category": "\nComics\n",
+    "details": {
+      "publication_year": "",
+      "story_type": "",
+      "timeline_era": "",
+      "main_characters": [
+        "batman"
+      ],
+      "main_villains": [],
+      "key_events": [],
+      "consequences": "",
+      "reading_order": "",
+      "complexity_level": "simple"
+    },
+    "related_stories": [],
+    "source_file": "batman_storylines_COMPLETE.json"
+  },
+  {
+    "id": "storyline_10",
+    "name": "Batman_Incorporated",
+    "type": "storyline",
+    "url": "https://batman.fandom.com/wiki/Batman_Incorporated",
+    "description": "Batman Incorporatedwas a global non-profit organization publicly funded byWayne EnterprisesandBruce Wayne.  The group selects vigilantes from across the world to train and supply for crime-fighting purposes while also making them swear oaths.",
+    "simple_summary": "Batman Incorporatedwas a global non-profit organization publicly funded byWayne EnterprisesandBruce Wayne. The group selects vigilantes from across the world to train and supply for crime-fighting purposes while also making them swear oaths.",
+    "category": "\nComics\n",
+    "details": {
+      "publication_year": "",
+      "story_type": "",
+      "timeline_era": "",
+      "main_characters": [
+        "batman",
+        "bruce wayne",
+        "robin",
+        "batgirl",
+        "nightwing"
+      ],
+      "main_villains": [],
+      "key_events": [],
+      "consequences": "",
+      "reading_order": "",
+      "complexity_level": "simple"
+    },
+    "related_stories": [],
+    "source_file": "batman_storylines_COMPLETE.json"
+  },
+  {
+    "id": "storyline_11",
+    "name": "Batman:_Year_One",
+    "type": "storyline",
+    "url": "https://batman.fandom.com/wiki/Batman:_Year_One",
+    "description": "Batman: Year Oneis the title of a Batman comicstory arcwritten byFrank Miller, illustrated byDavid Mazzucchelliand colored byRichmond Lewis. It originally appeared in issues #404 to #407 ofDC'sBatmancomic title in 1987. It is one of the first examples of the \"limited series within a series\" format that is now prevalent in American comic books, with the intent of future printings intrade paperbacks.",
+    "simple_summary": "Batman: Year Oneis the title of a Batman comicstory arcwritten byFrank Miller, illustrated byDavid Mazzucchelliand colored byRichmond Lewis. It originally appeared in issues #404 to #407 ofDC'sBatmancomic title in 1987. It is one of the first examples of the \"limited series within a series\" format that is now prevalent in American comic books, with the intent of future printings intrade paperbacks.",
+    "category": "\nComics\n",
+    "details": {
+      "publication_year": "",
+      "story_type": "",
+      "timeline_era": "",
+      "main_characters": [
+        "batman",
+        "bruce wayne",
+        "robin",
+        "dick grayson"
+      ],
+      "main_villains": [
+        "joker",
+        "two-face",
+        "catwoman"
+      ],
+      "key_events": [
+        "first appearance"
+      ],
+      "consequences": "",
+      "reading_order": "",
+      "complexity_level": "simple"
+    },
+    "related_stories": [],
+    "source_file": "test_batman_storylines.json"
+  },
+  {
+    "id": "storyline_12",
+    "name": "The_Killing_Joke",
+    "type": "storyline",
+    "url": "https://batman.fandom.com/wiki/The_Killing_Joke",
+    "description": "Batman: The Killing Jokeis a \"prestige edition\"  one-shot written byAlan Moore, drawn byBrian Bollandwith colors byJohn Higgins. First published by DC in 1988, it has continuously been held in print since then.",
+    "simple_summary": "Batman: The Killing Jokeis a \"prestige edition\" one-shot written byAlan Moore, drawn byBrian Bollandwith colors byJohn Higgins. First published by DC in 1988, it has continuously been held in print since then.",
+    "category": "\nComics\n",
+    "details": {
+      "publication_year": "",
+      "story_type": "",
+      "timeline_era": "",
+      "main_characters": [
+        "batman",
+        "bruce wayne",
+        "robin",
+        "tim drake",
+        "jason todd",
+        "batgirl"
+      ],
+      "main_villains": [
+        "joker",
+        "two-face",
+        "penguin",
+        "harley quinn"
+      ],
+      "key_events": [
+        "origin story",
+        "death"
+      ],
+      "consequences": "",
+      "reading_order": "",
+      "complexity_level": "simple"
+    },
+    "related_stories": [],
+    "source_file": "test_batman_storylines.json"
+  },
+  {
+    "id": "storyline_13",
+    "name": "The_Dark_Knight_Returns",
+    "type": "storyline",
+    "url": "https://batman.fandom.com/wiki/The_Dark_Knight_Returns",
+    "description": "Batman: The Dark Knight#1, more commonly referred to as\"The Dark Knight Returns\", is the first issue ofFrank Miller'sBatman: The Dark Knightcomic miniseries. The issue followsBatman'sreturn after ten years retirement.",
+    "simple_summary": "Batman: The Dark Knight#1, more commonly referred to as\"The Dark Knight Returns\", is the first issue ofFrank Miller'sBatman: The Dark Knightcomic miniseries. The issue followsBatman'sreturn after ten years retirement.",
+    "category": "\nComics\n",
+    "details": {
+      "publication_year": "",
+      "story_type": "",
+      "timeline_era": "",
+      "main_characters": [
+        "batman",
+        "bruce wayne",
+        "robin",
+        "dick grayson",
+        "jason todd",
+        "alfred pennyworth"
+      ],
+      "main_villains": [
+        "joker",
+        "two-face"
+      ],
+      "key_events": [
+        "first appearance",
+        "death",
+        "retirement"
+      ],
+      "consequences": "",
+      "reading_order": "",
+      "complexity_level": "simple"
+    },
+    "related_stories": [],
+    "source_file": "test_batman_storylines.json"
+  }
+]

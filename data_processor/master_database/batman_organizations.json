@@ -1,0 +1,3758 @@
+[
+  {
+    "id": "organization_1",
+    "name": "Action_News",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Action_News",
+    "description": "",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "",
+      "alignment": "neutral",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "joker"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_2",
+    "name": "The_Agency",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/The_Agency",
+    "description": "The Agencyis the public face of a shadow committee, consisting of military leaders, intelligence experts, and government officials. It is currently under control byAmanda Waller. In order to capturethe Pact, the organization would work with the vigilanteBatmanto capture the group.",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "villain group",
+      "alignment": "evil",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "bruce wayne",
+        "commissioner gordon",
+        "catwoman",
+        "joker",
+        "riddler",
+        "bane",
+        "harley quinn"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [
+        "law enforcement",
+        "vigilante",
+        "research"
+      ],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_3",
+    "name": "Batmen",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Batmen",
+    "description": "The\"Batmen\", or theBatmen Militia, were a group of people who were inspired byBatmanto fight crime and corruption inGotham City. Members of the party had suffered injustice and decided to follow in Batman's footsteps, albeit with the contrasting intention of murdering criminals instead of apprehending them to the proper authorities, which is presumably why Batman refuses their assistance and has them arrested. Noted members includedAntonand the former GCPD officer,Brian Douglas.",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "hero team",
+      "alignment": "neutral",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "joker",
+        "scarecrow"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_4",
+    "name": "Black_Glove",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Black_Glove",
+    "description": "The Black Gloveis a criminal organization of wealthy hedonists lead byDoctor Hurt. They meet at-least once a year to place bets the deaths of a third party.",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "villain group",
+      "alignment": "evil",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "joker"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_5",
+    "name": "Carmine_Falcone%27s_Thugs",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Carmine_Falcone%27s_Thugs",
+    "description": "After Falcone's mental decline from being injected with Crane'sfear toxin,Sal Maronitook over the Falcone Family, and all of Falcone's remaining thugs joined up with him.",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "",
+      "alignment": "neutral",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "bruce wayne",
+        "ra's al ghul"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_6",
+    "name": "The_Chechen%27s_Thugs",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/The_Chechen%27s_Thugs",
+    "description": "",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "crime organization",
+      "alignment": "neutral",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "joker",
+        "scarecrow"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_7",
+    "name": "Children_of_Arkham",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Children_of_Arkham",
+    "description": "TheChildren of Arkhamwere a political group turned terrorist organization led byLady Arkham. Comprising of both mercenaries and victims of Gotham's criminals, their goals were to expose corruption in Gotham, get revenge on the responsible parties and bring the city under their control. The group was the first threat faced byBatman.",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "crime organization",
+      "alignment": "evil",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "bruce wayne",
+        "alfred pennyworth",
+        "catwoman",
+        "spoiler",
+        "two-face",
+        "penguin",
+        "ra's al ghul"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [
+        "vigilante",
+        "assassination"
+      ],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_8",
+    "name": "Circus_of_Strange",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Circus_of_Strange",
+    "description": "",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "crime organization",
+      "alignment": "neutral",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "robin",
+        "dick grayson",
+        "damian wayne",
+        "penguin"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_9",
+    "name": "Club_of_Villains",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Club_of_Villains",
+    "description": "The Club of Villainsis a team of super-villains from around the world assembled byDr. Simon Hurtto defeatBatman, theOutsidersandBatman Incorporatedwhile acting as a task-force for theBlack Glove. Their ranks are made up of villains who act as foils to theBatmen of All-Nation's with their name being a play onThe Club of Heroeswhich was the group of Batmen's name. They first appeared inBatman #676in the June of 2008.",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "hero team",
+      "alignment": "neutral",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "robin",
+        "dick grayson",
+        "damian wayne",
+        "alfred pennyworth",
+        "joker"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [
+        "vigilante"
+      ],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_10",
+    "name": "Court_of_Owls",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Court_of_Owls",
+    "description": "Bruce dismissed the possibility that the fabled Court of Owls exists, not thinking them much of the threat. He refused to entertain the notion that there was some ancient organization pulling the strings of Gotham, as he believed no one knows the city better than he does. However, during a meeting with Gotham mayoral candidateLincoln March, he was warned by Lincoln that an ancient evil has come back to Gotham, awakened by the ambitious new plans for the city that Bruce had been promoting. Almost immediately,Talonburst from an elevator, leaving two deceased security guards in his wake. After pl...",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "crime organization",
+      "alignment": "evil",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "bruce wayne",
+        "robin",
+        "dick grayson",
+        "damian wayne",
+        "alfred pennyworth",
+        "commissioner gordon",
+        "joker"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [
+        "assassination"
+      ],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_11",
+    "name": "Court_of_Owls_(Gotham_Knights)",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Court_of_Owls_(Gotham_Knights)",
+    "description": "The Court of Owlswere a secret society operating in Gotham City. Consisting of the city's most powerful and influential families, they were heavily involved in its history and development, utilizing their shared resources and undeadTalon assassins. Most members sought to extend their life spans through various means, drawing them into conflict with theLeague of Shadows. The Court's existence was a major factor inBatman'sfinal case and the subsequent investigations by thehis proteges.",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "",
+      "alignment": "neutral",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_12",
+    "name": "Falcone_Crime_Family",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Falcone_Crime_Family",
+    "description": "The Falcone Crime Family, also known asThe Roman Empire, was the untouchable criminal empire headed byCarmine Falcone. It dominated the criminal underworld prior toBatman's crusade and was often cited as the source of Gotham's corrupt political structure. During Batman's first years, the Falcone Crime Family would fall into decline due to both the actions of the vigilante and his allies, and the rise of various supervillains in the city.",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "hero team",
+      "alignment": "evil",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "robin",
+        "dick grayson",
+        "catwoman",
+        "joker",
+        "two-face",
+        "penguin",
+        "scarecrow"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [
+        "vigilante",
+        "organized crime"
+      ],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_13",
+    "name": "False_Face_Society",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/False_Face_Society",
+    "description": "TheFalse Face Society(also known asThe False Facersas well as theSionis Crime Family) are a criminal organization inGotham Citywhich revolve their modus operandi around wearing masks. The team is presumably named after an unrelated Iroquois medicinal society. They first appeared inBatman #152in the December of 1962 and were created byBill FingerandSheldon Moldoff.",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "crime organization",
+      "alignment": "evil",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "bruce wayne",
+        "huntress",
+        "batwoman",
+        "joker",
+        "ra's al ghul",
+        "black mask"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_14",
+    "name": "First_Families_of_Gotham",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/First_Families_of_Gotham",
+    "description": "By the 2010s, apparently only three of the five original families would be staying strong. The Wayne family was still highly successful due toWayne Enterprisesand its patriarch,Bruce WayneAKABatman. The Kanes were still powerful thanks to their own businesses and having combined with the Waynes with the marriage of Bruce's parentsThomas WayneandMartha Kane; most notably the matriarch of the Kane family would beKatherine Kane AKA Batwoman. The Cobblepots on the other hand would survive predominately through criminal means thanks to the empire of oneOswald \"The Penguin\" Cobblepot.",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "crime organization",
+      "alignment": "evil",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "bruce wayne",
+        "dick grayson",
+        "catwoman",
+        "batwoman",
+        "penguin"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_15",
+    "name": "Flying_Todds",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Flying_Todds",
+    "description": "",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "",
+      "alignment": "neutral",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "jason todd"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_16",
+    "name": "Gambol%27s_Thugs",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Gambol%27s_Thugs",
+    "description": "",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "crime organization",
+      "alignment": "evil",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "joker"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_17",
+    "name": "GCN",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/GCN",
+    "description": "",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "",
+      "alignment": "neutral",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_18",
+    "name": "Gotham_City_Crimelords",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Gotham_City_Crimelords",
+    "description": "",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "crime organization",
+      "alignment": "evil",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "joker",
+        "two-face"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_19",
+    "name": "Gotham_City_Police_Department_(Gotham_Knights)",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Gotham_City_Police_Department_(Gotham_Knights)",
+    "description": "TheGotham City Police Departmentis an allied faction inGotham Knights. Once allied to theBatman Family, relations between them ceased after the death ofCommissioner James Gordonand the result of building corruption in the department. AfterBatman's apparent death, the vigilantes once again begin a working relationship withCpt. Renee Montoya.",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "government agency",
+      "alignment": "neutral",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [
+        "vigilante"
+      ],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_20",
+    "name": "Gotham_City_SWAT_(Nolanverse)",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Gotham_City_SWAT_(Nolanverse)",
+    "description": "SWAT first acted when Scarecrow's base under Arkham Asylum was discovered by Batman. Scarecrow had the police brought over to the asylum and SWAT was called for back up. They were going through the asylum when they were stunned by the swarm of bats used by Batman. Gotham SWAT was called in for security whenRa's al Ghuland hisLeague of Shadowsbegan their assault onGotham City'sNarrowsdistrict.",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "corporation",
+      "alignment": "neutral",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "joker",
+        "scarecrow",
+        "ra's al ghul"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_21",
+    "name": "Gotham_News_Network",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Gotham_News_Network",
+    "description": "",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "",
+      "alignment": "neutral",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [],
+      "enemies": [],
+      "allies": [],
+      "activities": [],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_22",
+    "name": "Haly%27s_Circus",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Haly%27s_Circus",
+    "description": "Haly's Circusis the circus thatDick Graysonand his family theFlying Graysonstoured with up until the Grayson parents' deaths.",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "hero team",
+      "alignment": "neutral",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "bruce wayne",
+        "robin",
+        "dick grayson",
+        "two-face"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [
+        "protection"
+      ],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_23",
+    "name": "Hockey_Thugs",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Hockey_Thugs",
+    "description": "The Hockey Thugs used used chrome hockey sticks for weapons, the toe and heel area was a razor blade and doubled as a scythe. They outfitted themselves in hockey gear and other assorted custom armor and raggedy thermal material. It seems likely that they may be a disgraced hockey team, withFrostybeing their former coach andMs. B. Haven, a loyal cheerleader.",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "",
+      "alignment": "evil",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "robin",
+        "mr. freeze"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_24",
+    "name": "Joker%27s_Thugs_(The_Dark_Knight)",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Joker%27s_Thugs_(The_Dark_Knight)",
+    "description": "The Joker employed three bounty hunters to bring him toGambol, pretending to have been killed by them, and laying lifeless in a bag. The Joker then viciously murdered Gambol. With Gambol's men on the floor, and the bounty hunters aiming handguns to their heads, the Joker informed Gambol's men that he had opened tryouts for his new gang. He snapped a pool cue in half and dropped one half on the floor, then ordered his enforcers to be quick, hinting that he intended for Gambol's men to fight to the death until the sole survivor joins Joker's team.",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "crime organization",
+      "alignment": "evil",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "bruce wayne",
+        "joker"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_25",
+    "name": "Justice_Society_of_America",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Justice_Society_of_America",
+    "description": "TheJustice Society of Americais the world's first superhero team. On the world of Earth-Two (prior to the history-altering Crisis on Infinite Earths),Batmanwas a member.",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "hero team",
+      "alignment": "neutral",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "robin",
+        "catwoman",
+        "huntress"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [
+        "organized crime"
+      ],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_26",
+    "name": "Lau%27s_Thugs",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Lau%27s_Thugs",
+    "description": "",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "crime organization",
+      "alignment": "neutral",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_27",
+    "name": "League_of_Assassins_(Beware_the_Batman)",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/League_of_Assassins_(Beware_the_Batman)",
+    "description": "TheLeague of Assassinsis a secretive international criminal organization consisting of highly trained ninja warriors.",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "crime organization",
+      "alignment": "neutral",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "ra's al ghul"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_28",
+    "name": "League_of_Shadows",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/League_of_Shadows",
+    "description": "TheLeague of Shadowswas an international organization led byRa's al Ghulin the filmBatman Begins, and later by his daughterTaliainThe Dark Knight Rises.",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "hero team",
+      "alignment": "neutral",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "bruce wayne",
+        "bane",
+        "scarecrow",
+        "ra's al ghul"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [
+        "training"
+      ],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_29",
+    "name": "Major_Crimes_Unit_(Nolanverse)",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Major_Crimes_Unit_(Nolanverse)",
+    "description": "Out of all nineBatmanfilms, the Christopher Nolan series prominently featured the GCPD with aSWATteam mostly because of the series' realistic tone. (However, GCPD vehicles bear only the letters \"GPD\".)",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "villain group",
+      "alignment": "neutral",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "bruce wayne",
+        "joker",
+        "two-face"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_30",
+    "name": "Sal_Maroni%27s_Thugs",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Sal_Maroni%27s_Thugs",
+    "description": "",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "crime organization",
+      "alignment": "neutral",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "joker"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_31",
+    "name": "Maroni_Crime_Family",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Maroni_Crime_Family",
+    "description": "TheMaroni Crime Familywas a crime family operating inGotham City.",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "crime organization",
+      "alignment": "evil",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "robin",
+        "dick grayson",
+        "two-face"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_32",
+    "name": "National_Guard",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/National_Guard",
+    "description": "TheUnited States National Guard(often referred to as theNational Guard) are a branch of the US Government. Often comprising of reserved soldier for theUS Armyor US Air Force, it is often deployed to deal with situations on US soil, often riots or heavy street violence. The National Guard has sometimes played a role in stories related toBatmanand theBat-Family.",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "crime organization",
+      "alignment": "neutral",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_33",
+    "name": "NCB",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/NCB",
+    "description": "",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "",
+      "alignment": "neutral",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "joker"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_34",
+    "name": "NygmaTech",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/NygmaTech",
+    "description": "TheNygmaTechCorporation was a company that was located inGotham Cityand was founded by Edward Nygma, A.K.A. theRiddler.",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "villain group",
+      "alignment": "evil",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "bruce wayne",
+        "robin",
+        "two-face",
+        "riddler"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_35",
+    "name": "Order_of_St._Dumas",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Order_of_St._Dumas",
+    "description": "A splinter group of the Order created a new champion calledAzrael, a hereditary title given to the splinter order's near-superhuman enforcer and assassin. Members of the splinter order enlarged the organization's power by killing their enemies, hoarding knowledge and kidnapping some of the greatest thinkers in the world. The order also spread disinformation to ensure that the theories of the kidnapped geniuses would look so silly that nobody would miss them or examine their research. The most recent Azrael, Jean-Paul Valley, eventually destroyed the splinter group.",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "hero team",
+      "alignment": "neutral",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "ra's al ghul"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [
+        "research",
+        "training"
+      ],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_36",
+    "name": "The_Pact",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/The_Pact",
+    "description": "The Pactconsists of some of the most notorious and dangerous criminals in the world that were assembled to unite againstthe Agency. Initially led by a veteran criminal known only as\"the Riddler\", the Pact searched for anexperimental restorative agenthidden withinGotham. The group's arrival foreshadowed darker days, particularly forBatmanand theGotham City Police Department.",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "crime organization",
+      "alignment": "evil",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "bruce wayne",
+        "catwoman",
+        "joker",
+        "riddler",
+        "bane",
+        "harley quinn",
+        "mr. freeze"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [
+        "vigilante"
+      ],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_37",
+    "name": "Party_Thugs",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Party_Thugs",
+    "description": "",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "",
+      "alignment": "neutral",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "bruce wayne",
+        "joker"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_38",
+    "name": "Penguin_Commandos",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Penguin_Commandos",
+    "description": "",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "crime organization",
+      "alignment": "evil",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "joker",
+        "penguin",
+        "harley quinn",
+        "poison ivy"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_39",
+    "name": "Red_Hood_Gang",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Red_Hood_Gang",
+    "description": "The Red HoodGangis a defunct criminal-organization inGotham Cityaffiliated with theRed Hood.",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "crime organization",
+      "alignment": "evil",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "robin",
+        "jason todd",
+        "red hood",
+        "joker",
+        "riddler",
+        "poison ivy",
+        "black mask"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_40",
+    "name": "Red_Triangle_Gang",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Red_Triangle_Gang",
+    "description": "The group began to operate as a criminal operation using Gotham's sewer tunnels. They started to appear afterJoker's defeat, perhaps taking some inspiration.Commissioner Gordonand Batman began to gradually take note of their increasing activity before theLighting of the Tree Ceremony, at which they launched a theatrical attack on the crowd. The circus gang emerged from an oversized gift box in the middle ofGotham Plazaand starting terrorizing the crowd with gunfire and torch jugglers. TheOrgan Grinderdestroyed the lights and ornaments on the tree using an old-fashionedgatling gunhidden in a mu...",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "crime organization",
+      "alignment": "evil",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "commissioner gordon",
+        "catwoman",
+        "joker",
+        "penguin"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_41",
+    "name": "Religion_of_Crime",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Religion_of_Crime",
+    "description": "The Religion of Crime, also known as the Dark Faith, is an old, secret organization that follows the word of the Crime Bible and its lessons of deceit, greed, lust and murder.",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "crime organization",
+      "alignment": "evil",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batwoman"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [
+        "research"
+      ],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_42",
+    "name": "Riddler%27s_Frogmen",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Riddler%27s_Frogmen",
+    "description": "",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "",
+      "alignment": "neutral",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "robin",
+        "two-face",
+        "riddler"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_43",
+    "name": "SANCTUS",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/SANCTUS",
+    "description": "SANCTUSis a former division ofthe Agency, in charge of experimentation and research into new weapons for the organization. After seemingly being shut down, the organization continued to operate in secret. They are responsible for the creation of a biological weapon known asProject LOTUS, which became the target for a group of criminals calledthe Pact.",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "villain group",
+      "alignment": "evil",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "bruce wayne",
+        "catwoman",
+        "riddler",
+        "harley quinn"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [
+        "research"
+      ],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_44",
+    "name": "Scarecrow%27s_Thugs_(Batman_Begins)",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Scarecrow%27s_Thugs_(Batman_Begins)",
+    "description": "",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "crime organization",
+      "alignment": "neutral",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "scarecrow"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_45",
+    "name": "Talons",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Talons",
+    "description": "Throughout the Court of Owls' existence there has always been the Talons sect, a loyal group of lethal assassins that serve The Court. They are sent out when The Court of Owls feels that their existence or goals are being threatened. The Talons are first mentioned in the oldGotham Citynursery rhyme story about the Court of Owls; in this old story a figure is simply known as Talon. There have been many different Talons throughout the existence of the Court of Owls, but it is not known exactly who these assassins are- only that they are known by one name: The Talon.",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "",
+      "alignment": "neutral",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_46",
+    "name": "Truck_Thugs",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Truck_Thugs",
+    "description": "",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "",
+      "alignment": "neutral",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "joker"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_47",
+    "name": "Two-Face%27s_Thugs",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Two-Face%27s_Thugs",
+    "description": "",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "",
+      "alignment": "neutral",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "two-face",
+        "riddler"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_48",
+    "name": "TYGER_Security",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/TYGER_Security",
+    "description": "Ultimately, TYGER's poor imagination and emphasis on inflexible tactics allowed Batman and his allies to outwit its units with unconventional thinking. This was most amply demonstrated by the organization's obsession with specifics - such as naively insisting that Batman traveled along mapped routes with no deviation from earlier observed patterns - while failing to develop even basic contingencies for what happened when said deviation occurred. During their initial engagements, it took Batman only about four minutes to defeat three companies of TYGER troops.[4]",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "hero team",
+      "alignment": "evil",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "bruce wayne",
+        "robin",
+        "nightwing",
+        "catwoman",
+        "oracle",
+        "joker",
+        "two-face"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [
+        "protection",
+        "training",
+        "recruitment"
+      ],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_49",
+    "name": "United_Underworld",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/United_Underworld",
+    "description": "TheUnited Underworldis an evil organization that is formed in theBatmanspinoff movie.",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "villain group",
+      "alignment": "evil",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "bruce wayne",
+        "robin",
+        "catwoman",
+        "joker",
+        "penguin",
+        "riddler"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_50",
+    "name": "Wayne_Enterprises_(Nolanverse)",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Wayne_Enterprises_(Nolanverse)",
+    "description": "When Bruce finally returned to Gotham, he did not show obvious interest in reclaiming the family business. Instead, he chose to work in the Applied Sciences Division, and used it and his coworker,Lucius Fox, to provide him with high-tech equipment. Bruce took gear that was originally made for the U.S. Military, includingbody armorand aprototype armored vehicle, and used them to create the equipment that he needed for his war on crime. BeforeRa's al Ghul's attack on Gotham, Earle transitioned Wayne Enterprises' in a public corporation to increase his financial gain.",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "crime organization",
+      "alignment": "neutral",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "bruce wayne",
+        "joker",
+        "ra's al ghul"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_51",
+    "name": "Wayne_Enterprises_(Schumacherverse)",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Wayne_Enterprises_(Schumacherverse)",
+    "description": "",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "corporation",
+      "alignment": "neutral",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "bruce wayne",
+        "robin"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [
+        "research"
+      ],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_52",
+    "name": "Bat_Clan_of_Hida",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Bat_Clan_of_Hida",
+    "description": "",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "villain group",
+      "alignment": "neutral",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [],
+      "resources": [
+        "transportation"
+      ],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_53",
+    "name": "Bat-Family",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Bat-Family",
+    "description": "TheBat-Family[1]is a network of crimefighters who operate in and aroundGotham City. Nearly all members trained directly underBruce Wayne. These include theBirds of Preywho operate out of theClock Towerand thethe Belfry.",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "hero team",
+      "alignment": "neutral",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "bruce wayne",
+        "robin",
+        "jason todd",
+        "damian wayne",
+        "batgirl",
+        "barbara gordon",
+        "nightwing"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [
+        "vigilante"
+      ],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_54",
+    "name": "Bat-Family_(Gotham_Knights)",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Bat-Family_(Gotham_Knights)",
+    "description": "TheBat-Familyis a crime-fighting organization operating inGotham City. Founded byBruce Wayne / Batman, they continued to operate after their leader's death. Its membership includedDick Grayson / Nightwing,Barbara Gordon / Batgirl,Jason Todd / Red HoodandTim Drake / Robin.",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "crime organization",
+      "alignment": "neutral",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "bruce wayne",
+        "robin",
+        "dick grayson",
+        "tim drake",
+        "jason todd",
+        "batgirl",
+        "barbara gordon"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_55",
+    "name": "Batman_Incorporated",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Batman_Incorporated",
+    "description": "Batman Incorporatedwas a global non-profit organization publicly funded byWayne EnterprisesandBruce Wayne. The group selects vigilantes from across the world to train and supply for crime-fighting purposes while also making them swear oaths.",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "villain group",
+      "alignment": "evil",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "bruce wayne",
+        "robin",
+        "batgirl",
+        "nightwing",
+        "red hood",
+        "red robin",
+        "batwoman"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [
+        "vigilante"
+      ],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_56",
+    "name": "Batmen_of_All_Nations",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Batmen_of_All_Nations",
+    "description": "The Batmen of All Nationsalso known as theClub of Heroesand theInternational Club of Heroesis an international team of vigilantes lead byBatmanwhich consists of vigilantes who were inspired or otherwise take influence from Batman.",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "hero team",
+      "alignment": "evil",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "robin",
+        "dick grayson",
+        "joker"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [
+        "vigilante",
+        "training"
+      ],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_57",
+    "name": "Blockbuster_Gang",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Blockbuster_Gang",
+    "description": "",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "crime organization",
+      "alignment": "evil",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "nightwing",
+        "black mask"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_58",
+    "name": "Cluemaster%27s_minions",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Cluemaster%27s_minions",
+    "description": "They areCluemaster's old football teamand currently hisminions.",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "",
+      "alignment": "neutral",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_59",
+    "name": "Court_of_Owls_(DC_Animated_Movie_Universe)",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Court_of_Owls_(DC_Animated_Movie_Universe)",
+    "description": "TheCourt of Owlswas a secret organization dating hundreds of years back inGotham City. After a fallout with their secret assassin,Talon, every member was murdered. The members of the Court all wear owl masks to cover their faces.",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "",
+      "alignment": "neutral",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "bruce wayne",
+        "robin",
+        "damian wayne"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_60",
+    "name": "Crime_Syndicate",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Crime_Syndicate",
+    "description": "The Crime Syndicatealso known as theCrime Syndicate of America,Crime Syndicate of Amerika, and theCrime Societyis a fictional supervillain team of DC Comics. It is one of the DC's parallel universe where the evil counterparts ofJustice Leaguewho they often fight.",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "hero team",
+      "alignment": "evil",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "robin",
+        "dick grayson",
+        "red hood",
+        "joker"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_61",
+    "name": "Dragon%27s_Fangs",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Dragon%27s_Fangs",
+    "description": "",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "",
+      "alignment": "neutral",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "catwoman"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_62",
+    "name": "The_False_Face_Society_(Batman_Adventures)",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/The_False_Face_Society_(Batman_Adventures)",
+    "description": "TheFalse Face Societyis a DCAU criminal organization consisting of mostly masked supervillains, led byBlack Maskand based on the comic-booksyndicate of the same name. Additionally, The False Face Society was unknowingly in the employ of theRed Hood, the actual founder of the organization.",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "crime organization",
+      "alignment": "evil",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "batgirl",
+        "red hood",
+        "joker",
+        "black mask"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [
+        "smuggling",
+        "assassination"
+      ],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_63",
+    "name": "Flying_Graysons_(Schumacherverse)",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Flying_Graysons_(Schumacherverse)",
+    "description": "TheFlying Graysonswere the acrobatsJohn,Mary,Mitch, andDick Grayson. They were a family of traveling acrobats who performed a trapeze act in a circus.",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "",
+      "alignment": "neutral",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "bruce wayne",
+        "robin",
+        "dick grayson",
+        "two-face"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_64",
+    "name": "The_Ghosts",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/The_Ghosts",
+    "description": "The Ghostsare a small time criminal group that took over the part ofGotham Cityknown as the Cauldron.",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "villain group",
+      "alignment": "neutral",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_65",
+    "name": "Kobra_Cult",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Kobra_Cult",
+    "description": "Originally a cult in an underreported part of the world, Kobra had a prophecy that one day someone would lead them to greatness. Finding this someone as one of a set of twins, they selected one at random and took him to be raised by them. This baby, named Jeffrey Burr by his parents, grew to be a formidable warrior and a criminal mastermind. As he took control of the organization, he was awarded the title \"Naga Naga\". Under Burr, Kobra began using cutting-edge science to fulfill it ultimate goal of bringing about the Kali Yuga the Age of Chaos, in which the imperfect world will be swept away b...",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "hero team",
+      "alignment": "neutral",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "tim drake",
+        "ra's al ghul"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [
+        "research",
+        "recruitment"
+      ],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_66",
+    "name": "League_of_Assassins_(DC_Animated_Universe)",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/League_of_Assassins_(DC_Animated_Universe)",
+    "description": "TheLeague of Assassinswas a formidable global organization founded and led by Ra's al Ghul.",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "hero team",
+      "alignment": "neutral",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "ra's al ghul"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_67",
+    "name": "League_of_the_New_Order",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/League_of_the_New_Order",
+    "description": "TheLeague of the New Orderis a group of dishonored business men.",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "",
+      "alignment": "neutral",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [],
+      "enemies": [],
+      "allies": [],
+      "activities": [],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_68",
+    "name": "Legion_of_Doom",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Legion_of_Doom",
+    "description": "The Legion of Doomis the name of a team of super-villains in the DC universe which often includes a large sum ofBatmanVillains.",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "hero team",
+      "alignment": "evil",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "robin",
+        "dick grayson",
+        "jason todd",
+        "barbara gordon",
+        "nightwing",
+        "oracle",
+        "red hood"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [
+        "vigilante"
+      ],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_69",
+    "name": "Man-Bat_Commandos",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Man-Bat_Commandos",
+    "description": "TheNinja Man-Batsare a group within theLeague of Assassinswho use Man-Bat Serum to turn themselves into monsters. They are led byTalia.",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "",
+      "alignment": "evil",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_70",
+    "name": "Miagani",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Miagani",
+    "description": "The Miagani tribe itself did not survive to the 20th century, destroyed in the making of the modern Gotham City on the gravesite of Doctor Gotham possibly by Blackfire. Still, their cave remained, along with their holistic object, the Batsuit that Batman had worn when he shot Darkseid. All that remained was their descendants, Batman, and his family.",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "",
+      "alignment": "evil",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "riddler"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [],
+      "resources": [
+        "transportation"
+      ],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_71",
+    "name": "Ogre_and_Ape",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Ogre_and_Ape",
+    "description": "",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "villain group",
+      "alignment": "evil",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_72",
+    "name": "Outlaws",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Outlaws",
+    "description": "The Outlaws, sometimes referred to as theDark Trinity, are a team of violent vigilantes lead byJason Todd'sRed Hood.",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "hero team",
+      "alignment": "neutral",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "robin",
+        "dick grayson",
+        "jason todd",
+        "red hood",
+        "joker",
+        "black mask"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [
+        "vigilante"
+      ],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_73",
+    "name": "Outsiders",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Outsiders",
+    "description": "The Outsiders form in the fictional Eastern European country of Markovia. Batman and Black Lightning have traveled there in order to free the captive Lucius Fox from Baron Bedlam, who has killed the country's king, King Viktor. Geo-Force himself is the prince of the country who gains powers from Markovia's top scientist, Dr. Helga Jace, in order to stop Bedlam. Metamorpho is searching for Dr. Jace in order for the doctor to help him with his powers. Katana arrives in Markovia in order to kill General Karnz, Bedlam's military commander, as vengeance for her family. During the adventure, Batman ...",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "hero team",
+      "alignment": "good",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "bruce wayne",
+        "robin",
+        "nightwing",
+        "catwoman",
+        "red robin"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_74",
+    "name": "Outsiders_(Beware_the_Batman)",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Outsiders_(Beware_the_Batman)",
+    "description": "The Outsidersis a superhero group created by Batman.",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "hero team",
+      "alignment": "neutral",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "alfred pennyworth",
+        "oracle"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_75",
+    "name": "Outsiders_(The_Brave_and_the_Bold)",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Outsiders_(The_Brave_and_the_Bold)",
+    "description": "The Outsidersare a group of teenage heroes inBatman: The Brave and the Bold.",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "hero team",
+      "alignment": "neutral",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [
+        "vigilante",
+        "training"
+      ],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_76",
+    "name": "Riddlemen",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Riddlemen",
+    "description": "",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "villain group",
+      "alignment": "neutral",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "robin",
+        "joker",
+        "penguin",
+        "riddler"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_77",
+    "name": "Royal_Flush_Gang",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Royal_Flush_Gang",
+    "description": "TheRoyal Flush Gangis a criminal-syndicate in the DC universe which themes themselves around playing-cards. While traditionally enemies of theJustice League, they have notably quarrelled withBatmanand his successorTerry McGinniswith notable appearances agains them in other media.",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "hero team",
+      "alignment": "evil",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "catwoman",
+        "joker",
+        "two-face"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [],
+      "resources": [
+        "advanced technology"
+      ],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_78",
+    "name": "Royal_Flush_Gang_(DC_Animated_Universe)",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Royal_Flush_Gang_(DC_Animated_Universe)",
+    "description": "The Walker family were a group of well to do crooks who committed crime for enjoyment and sheer thrill. They adopted costumes to conceal their identities theming themselves after playing cards, becoming known as the Royal Flush Gang. They then preyed on Gotham City duringBatman's early years. The gang all utilize weapons shaped like playing cards that can fly across the city on card-shaped sky boards.Ten(real name Melanie), the daughter of King and Queen, is constantly torn between her empathetic and hardnosed sides and develops a semi-romantic relationship with Batman.",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "crime organization",
+      "alignment": "evil",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_79",
+    "name": "Run-Offs",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Run-Offs",
+    "description": "The Run-Offsare an emotional-support group for enemies ofNightwing. The team assisted super-criminals ofBlüdhavenreform from crime.",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "villain group",
+      "alignment": "evil",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "nightwing"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_80",
+    "name": "San_Ho_Hui",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/San_Ho_Hui",
+    "description": "San Ho Huiwas a small Chinese triad based inGotham City's Chinatown. Led byMickey Chen, they served as part-time enforcers for theFalcone Crime Family. In November 2020, they were killed during their Thanksgiving dinner by theHoliday Killer.",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "crime organization",
+      "alignment": "evil",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_81",
+    "name": "Secret_Society_of_Super-Villains",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Secret_Society_of_Super-Villains",
+    "description": "TheSecret Society of Super Villainsis a crime syndicate and enemy of theJustice League. The group mainly comprise of enemies of major villains around the world and are often lead byLex Luthor. Members ofBatman'sRogues Galleryhave often served as members of the society, likeTalia.",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "hero team",
+      "alignment": "neutral",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_82",
+    "name": "Society_of_Shadows",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Society_of_Shadows",
+    "description": "TheSociety of Shadowswas a formidable global organization founded and led by Ra's al Ghul.",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "",
+      "alignment": "neutral",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "ra's al ghul"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_83",
+    "name": "Suicide_Squad",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Suicide_Squad",
+    "description": "Task Force Xis a group mostly comprised of incarcerated super-villains who are sent on black ops missions, by the government. The missions in question are often amoral with the government using the supervillains as contingencies for blame. The missions have a low chance of survival in return for lowering their incarceration time, earning the group the nickname of, the \"Suicide Squad\".",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "hero team",
+      "alignment": "neutral",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "robin",
+        "batgirl",
+        "catwoman",
+        "joker",
+        "bane",
+        "harley quinn",
+        "killer croc"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [
+        "vigilante",
+        "recruitment"
+      ],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_84",
+    "name": "Suicide_Squad_(DC_Animated_Movie_Universe)",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Suicide_Squad_(DC_Animated_Movie_Universe)",
+    "description": "Task Force X(also and better known as theSuicide Squad) was a special forces black ops team created by Amanda Waller. It consists of incarcerated supervillains who act as deniable and expendable assets for the United States government, undertaking high-risk black ops missions in exchange for reduced time on their prison sentences. If enough missions are completed or, at Waller's discretion, they can be released from the team indefinitely. In the Apokolips War film, the team is considered \"Destroyed\".",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "hero team",
+      "alignment": "neutral",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_85",
+    "name": "Sweet_Tooth%27s_Kids",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Sweet_Tooth%27s_Kids",
+    "description": "Sweet Tooth's Kidsare a group of overweight kids that serve as henchmen toSweet Tooth.",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "hero team",
+      "alignment": "neutral",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "robin",
+        "batgirl"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_86",
+    "name": "Teen_Titans_(DC_Animated_Movie_Universe)",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Teen_Titans_(DC_Animated_Movie_Universe)",
+    "description": "TheTeen Titans(also known asTitans) was a group of young superheroes that work together with the Justice League and all other superhero teams to fight crime and protect the innocent.",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "hero team",
+      "alignment": "neutral",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "robin",
+        "dick grayson",
+        "damian wayne",
+        "nightwing",
+        "bane",
+        "ra's al ghul"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [
+        "training"
+      ],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_87",
+    "name": "Terrible_Trio_(Dozierverse)",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Terrible_Trio_(Dozierverse)",
+    "description": "",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "villain group",
+      "alignment": "neutral",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "robin",
+        "catwoman",
+        "joker",
+        "penguin"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_88",
+    "name": "Terrible_Trio_(Matsudaverse)",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Terrible_Trio_(Matsudaverse)",
+    "description": "The Terrible Triowere a group of students inGotham City.",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "",
+      "alignment": "neutral",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "batgirl",
+        "barbara gordon"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_89",
+    "name": "Terrible_Trio_(The_Brave_and_the_Bold)",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Terrible_Trio_(The_Brave_and_the_Bold)",
+    "description": "",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "",
+      "alignment": "evil",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_90",
+    "name": "The_Council_(Beware_the_Batman)",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/The_Council_(Beware_the_Batman)",
+    "description": "",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "",
+      "alignment": "neutral",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "alfred pennyworth"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_91",
+    "name": "The_Irish",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/The_Irish",
+    "description": "The Sullivan Crime Family(otherwise known asThe Irish) is a group of Irish hitmen operating inGotham City.",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "crime organization",
+      "alignment": "neutral",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_92",
+    "name": "The_Misfits",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/The_Misfits",
+    "description": "The Misfits are a syndicate of super-criminals in Gotham City assembled by Killer Moth. Feeling envious towards larger criminals such as the Joker while being a black-sheep on the criminal-underworld, Killer Moth made the team to include other foes of lesser renown. The original incarnation of the team includedCatmanandCalendar Manbefore they recruited Texan criminal,Chancer.",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "crime organization",
+      "alignment": "evil",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "bruce wayne",
+        "robin",
+        "commissioner gordon",
+        "joker",
+        "clayface"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [
+        "vigilante"
+      ],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_93",
+    "name": "Three_Devils",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Three_Devils",
+    "description": "TheThree DevilsAKA theDaredevilsare a group of supervillain enemies toBatmanandRobinwho have adept acrobatic abilities. They first appeared in Detective Comics #50 in the April of 1941 and were created byBill Finger.",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "hero team",
+      "alignment": "neutral",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "robin",
+        "dick grayson"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_94",
+    "name": "Three_Ghosts_of_Batman",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Three_Ghosts_of_Batman",
+    "description": "The Three Ghosts of Batmanis the fan-name given to a group of super-villains themed afterBatman. The three are known respectively asJosef MullerAKABat-Cop,BrancaAKABat-Bane, andMichael Washington LaneAKA theBat-Devil.",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "crime organization",
+      "alignment": "neutral",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "joker",
+        "bane"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_95",
+    "name": "Three_Jokers",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Three_Jokers",
+    "description": "The Three Jokersare the informal name for a super-villain organization from the DC storylinesDarkseid WarandBatman:Three Jokers, created by writerGeoff Johns. They are a reimagining ofthe Jokerand his origins, separating him into three separate characters who represent different incarnations of the character, namely: the golden-age depiction of the character, the silver age version of the character (inconsistently mixed with 1980s versions) and a version of the character specifically based off ofBatman: The Killing Joke. The canonicity of the team is unknown.",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "crime organization",
+      "alignment": "evil",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "jason todd",
+        "barbara gordon",
+        "red hood",
+        "joker"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [
+        "vigilante"
+      ],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_96",
+    "name": "Tobacconists%27_Club",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Tobacconists%27_Club",
+    "description": "",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "crime organization",
+      "alignment": "evil",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "bruce wayne",
+        "robin",
+        "joker",
+        "penguin",
+        "killer croc"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_97",
+    "name": "Trigger_Twins",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Trigger_Twins",
+    "description": "They later try and make more money by robbing a local mafia numbers runner; despite two of his men being killed by the duo, the boss of the organization talks the twins into working for him. They soon set to work killing the man's adversaries. Later, the two encounterAzraelduring a heist of a Gotham Subway train.",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "hero team",
+      "alignment": "evil",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "robin",
+        "nightwing",
+        "penguin"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [
+        "vigilante"
+      ],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_98",
+    "name": "Wonderland_Gang",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Wonderland_Gang",
+    "description": "The gang appears within theBatman: The Adventures Continueseries which is co-headed by Paul Dini. Here we see them being lead by a non-brainwashedMad Hatterwho wishes to steal technology for his hats. The group we see consists of Walrus, Carpenter, March Harriet and the Tweedles.",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "crime organization",
+      "alignment": "evil",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "batwoman"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_99",
+    "name": "Black_and_Whites",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Black_and_Whites",
+    "description": "The Black and Whitesis the name given toGotham City's \"plain coat\" supervillains. Consisting ofthe Penguin,Black Maskand theGreat White Shark, the group often pool their resources to deal with matters as a collective. These included the attacks byMr. Bloomand an attempt byBatmanto \"cure\"Two-Face.",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "villain group",
+      "alignment": "neutral",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "two-face",
+        "penguin",
+        "black mask"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_100",
+    "name": "Justice_League",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Justice_League",
+    "description": "TheJustice Leagueis an organization comprised of the world's most powerful superheroes dedicated to fighting crime and injustice. Formerly known asJustice League of Americaor theJLA, they carry on the legacy of theJustice Society of America. They work a strike-force, acting as Earth's first line of defense against both terrestrial and extraterrestrial threats.",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "hero team",
+      "alignment": "neutral",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "bruce wayne",
+        "robin",
+        "batgirl",
+        "alfred pennyworth",
+        "catwoman",
+        "huntress",
+        "batwoman"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [
+        "vigilante",
+        "recruitment"
+      ],
+      "resources": [
+        "transportation"
+      ],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_101",
+    "name": "Justice_League_of_America",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Justice_League_of_America",
+    "description": "TheJustice Leagueis an organization comprised of the world's most powerful superheroes dedicated to fighting crime and injustice. Formerly known asJustice League of Americaor theJLA, they carry on the legacy of theJustice Society of America. They work a strike-force, acting as Earth's first line of defense against both terrestrial and extraterrestrial threats.",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "hero team",
+      "alignment": "neutral",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "bruce wayne",
+        "robin",
+        "batgirl",
+        "alfred pennyworth",
+        "catwoman",
+        "huntress",
+        "batwoman"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [
+        "vigilante",
+        "recruitment"
+      ],
+      "resources": [
+        "transportation"
+      ],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_102",
+    "name": "Batman_Family",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Batman_Family",
+    "description": "TheBat-Family[1]is a network of crimefighters who operate in and aroundGotham City. Nearly all members trained directly underBruce Wayne. These include theBirds of Preywho operate out of theClock Towerand thethe Belfry.",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "hero team",
+      "alignment": "neutral",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "bruce wayne",
+        "robin",
+        "jason todd",
+        "damian wayne",
+        "batgirl",
+        "barbara gordon",
+        "nightwing"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [
+        "vigilante"
+      ],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_103",
+    "name": "Birds_of_Prey",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Birds_of_Prey",
+    "description": "TheBirds of Preyare a all-femaleBat-Familyadjacent group of crimefighters based inGotham City.",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "hero team",
+      "alignment": "neutral",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "dick grayson",
+        "batgirl",
+        "barbara gordon",
+        "nightwing",
+        "catwoman",
+        "huntress",
+        "oracle"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [
+        "protection",
+        "organized crime",
+        "research",
+        "training"
+      ],
+      "resources": [
+        "transportation"
+      ],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_104",
+    "name": "Teen_Titans",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Teen_Titans",
+    "description": "TheTeen Titansare a group of teenage superhero vigilantes who are counterparts to theJustice League. They consist of teenage super heroes and younger versions who fight the crime with the villains.",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "hero team",
+      "alignment": "neutral",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "robin",
+        "tim drake",
+        "nightwing",
+        "joker"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [
+        "vigilante",
+        "training"
+      ],
+      "resources": [
+        "transportation"
+      ],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_105",
+    "name": "Titans",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Titans",
+    "description": "TheTitansis made up of ex-members of theTeen Titanswho have passed the maximum age limit, a kind of purgtory of young heroes not yet permitted join the ranks of theJustice League.",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "hero team",
+      "alignment": "neutral",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "robin",
+        "dick grayson"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_106",
+    "name": "Wayne_Enterprises",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Wayne_Enterprises",
+    "description": "Wayne Enterprises(formerlyWayneCorp) is a company in the DC Universe. Wayne Enterprises is owned by billionaireBruce Wayneand run by his business managerLucius Fox. It was founded by merchant ancestors of the Wayne family in the 17th century as a merchant house. It changed and gradually grew when it was officially erected in the 19th century when Alan Wayne, heir to Solomon Wayne, founded Wayne Shipping and Wayne Chemical. Along with Wayne Manufacturing, which came later, the Industrial Revolution fueled Wayne Enterprises into becoming a major powerhouse. In addition to providing an income for...",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "hero team",
+      "alignment": "neutral",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "bruce wayne",
+        "robin",
+        "joker",
+        "two-face",
+        "penguin",
+        "riddler",
+        "harley quinn"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [
+        "crime fighting",
+        "smuggling",
+        "research",
+        "training"
+      ],
+      "resources": [
+        "transportation"
+      ],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_107",
+    "name": "GCPD",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/GCPD",
+    "description": "The strongest blow against police corruption in the force came when an increasing amount of conspiracy charges against Loeb forced him to resign his position, replaced byPeter Grogan. The Falcone crime family, which had a stranglehold on Gotham's underground for generations, finally crumbled when a series of killings shook the structure of the mafia organization. After the death of Carmine Falcone, the mob lashed out in sloppy, retaliatory crimes, which, in combination with rising gang violence, severely crippled organized crime in Gotham City. Simultaneously, the ebbing presence of corrupt po...",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "hero team",
+      "alignment": "evil",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "bruce wayne",
+        "commissioner gordon"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [
+        "vigilante",
+        "organized crime"
+      ],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_108",
+    "name": "Gotham_City_Police_Department",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Gotham_City_Police_Department",
+    "description": "The strongest blow against police corruption in the force came when an increasing amount of conspiracy charges against Loeb forced him to resign his position, replaced byPeter Grogan. The Falcone crime family, which had a stranglehold on Gotham's underground for generations, finally crumbled when a series of killings shook the structure of the mafia organization. After the death of Carmine Falcone, the mob lashed out in sloppy, retaliatory crimes, which, in combination with rising gang violence, severely crippled organized crime in Gotham City. Simultaneously, the ebbing presence of corrupt po...",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "hero team",
+      "alignment": "evil",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "bruce wayne",
+        "commissioner gordon"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [
+        "vigilante",
+        "organized crime"
+      ],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_109",
+    "name": "Department_of_Extranormal_Operations",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Department_of_Extranormal_Operations",
+    "description": "The Department of Extranormal Operations also known as DEO is a United States of America government agency which investigates, monitors, and processes all metahuman activities and persons. This agency's main goal is to prevent any threats to the general public about any extranormal superpowered people. The agency is headed by Former Infinity Inc MemberMister Bones. The agency's headquarters is located in New York and they report to the US Secretary of Metahuman Affairs which was originallyAmanda Waller.",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "hero team",
+      "alignment": "neutral",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "catwoman",
+        "clayface"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_110",
+    "name": "League_of_Assassins",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/League_of_Assassins",
+    "description": "TheLeague of Assassinsare a sect of highly trained warriors that act as bodyguards/mercenaries for theBrotherhood of the Demoncriminal empire. They have sworn eternal loyalty to the man who calls himselfRa's al Ghul, the Head of the Demon.",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "hero team",
+      "alignment": "good",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "bruce wayne",
+        "robin",
+        "dick grayson",
+        "tim drake",
+        "damian wayne",
+        "batgirl",
+        "red robin"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [
+        "assassination",
+        "training"
+      ],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_111",
+    "name": "Injustice_League",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Injustice_League",
+    "description": "The Injustice League is the opposite of the Justice league. The Injustice League goal is to spread chaos and confusion. They are one of the many bigger foes of The Justice League.",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "hero team",
+      "alignment": "good",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_112",
+    "name": "Secret_Society_of_Super_Villains",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Secret_Society_of_Super_Villains",
+    "description": "TheSecret Society of Super Villainsis a crime syndicate and enemy of theJustice League. The group mainly comprise of enemies of major villains around the world and are often lead byLex Luthor. Members ofBatman'sRogues Galleryhave often served as members of the society, likeTalia.",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "hero team",
+      "alignment": "neutral",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_113",
+    "name": "Kobra",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Kobra",
+    "description": "",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "",
+      "alignment": "neutral",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [],
+      "enemies": [],
+      "allies": [],
+      "activities": [],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_114",
+    "name": "LexCorp",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/LexCorp",
+    "description": "",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "",
+      "alignment": "neutral",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "bruce wayne"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_115",
+    "name": "Ace_Chemicals",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Ace_Chemicals",
+    "description": "Over the years, the Joker has revisited Ace Chemicals several times, and on occasion has even used it as a temporary hideout. Notable examples includeDeath of the Family, where Joker andHarley Quinnlure Batman to the Plant to repeat the \"accident\" that transformed the Red Hood into the Joker.",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "",
+      "alignment": "evil",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "bruce wayne",
+        "jason todd",
+        "red hood",
+        "joker",
+        "riddler",
+        "scarecrow",
+        "harley quinn"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [
+        "vigilante"
+      ],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_116",
+    "name": "S.T.A.R._Labs",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/S.T.A.R._Labs",
+    "description": "Science and Technology Advanced Research Laboratories, usually shortened to S.T.A.R. Labs, was a research organization founded by a scientist named Garrison Slate, who wanted a nationwide chain of research laboratories unconnected to the government or any business interests.",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "villain group",
+      "alignment": "neutral",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [],
+      "enemies": [],
+      "allies": [],
+      "activities": [
+        "research"
+      ],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_117",
+    "name": "Belle_Reve",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Belle_Reve",
+    "description": "",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "hero team",
+      "alignment": "neutral",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "nightwing",
+        "joker",
+        "penguin",
+        "riddler",
+        "harley quinn",
+        "poison ivy",
+        "mr. freeze"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_118",
+    "name": "Blackgate_Prison",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Blackgate_Prison",
+    "description": "",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "villain group",
+      "alignment": "evil",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "bruce wayne",
+        "jason todd",
+        "commissioner gordon",
+        "catwoman",
+        "joker",
+        "two-face",
+        "penguin"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [
+        "smuggling"
+      ],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_119",
+    "name": "Arkham_Asylum",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Arkham_Asylum",
+    "description": "According toArkham Asylum: A Serious House on Serious Earth, the crumbling Victorian mansion at the heart of the original Arkham Asylum was a single-family home, occupied at the beginning of the twentieth century by the Arkham family.Arkham Asylum: Living Hellelaborates on this information, disclosing that the actual structure was built long before the early 1900s as the \"Gotham House of Madness and Ill Humors\". The grounds were owned by an occult expert namedJason Blood, who carried out exorcisms on the mentally ill. His patients hailed predominantly from Gotham's poor and superstitious towns...",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "hero team",
+      "alignment": "evil",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "bruce wayne",
+        "robin",
+        "jason todd",
+        "batgirl",
+        "catwoman",
+        "red hood",
+        "joker"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [
+        "vigilante",
+        "smuggling"
+      ],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_120",
+    "name": "Gotham_General_Hospital",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Gotham_General_Hospital",
+    "description": "",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "",
+      "alignment": "neutral",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "alfred pennyworth",
+        "joker"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_121",
+    "name": "Gotham_University",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Gotham_University",
+    "description": "The G.U. was later the target of a vicious attack by former professor Vilmer, who sought revenge against the institution and the headmaster for his sacking after unethical experiments. The institution was saved by the timely intervention of Batman and Robin. Much later, the laboratories of Gotham University were used as a trap to capture The Pi-Meson Man. After several inmates from Arkham Asylum were released, Scarecrow used a large group of students at the Gotham University as his test subjects and using one of the building's classrooms, he transformed them into his minions. With a small army...",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "villain group",
+      "alignment": "neutral",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "robin",
+        "dick grayson",
+        "batgirl",
+        "barbara gordon",
+        "catwoman",
+        "riddler",
+        "scarecrow"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [
+        "research"
+      ],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_122",
+    "name": "Hudson_University",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Hudson_University",
+    "description": "",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "",
+      "alignment": "neutral",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "robin",
+        "dick grayson"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_123",
+    "name": "Gotham_Gazette",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Gotham_Gazette",
+    "description": "",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "",
+      "alignment": "neutral",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "bruce wayne",
+        "robin",
+        "barbara gordon",
+        "commissioner gordon",
+        "joker"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [
+        "vigilante"
+      ],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_124",
+    "name": "Gotham_Tonight",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Gotham_Tonight",
+    "description": "",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "",
+      "alignment": "neutral",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "bruce wayne"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_125",
+    "name": "Batman_and_Robin",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Batman_and_Robin",
+    "description": "",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "",
+      "alignment": "neutral",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman",
+        "robin"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  },
+  {
+    "id": "organization_126",
+    "name": "Gotham_Knights",
+    "type": "organization",
+    "url": "https://batman.fandom.com/wiki/Gotham_Knights",
+    "description": "The nameGotham Knightsis a nickname given to the extended \"Bat-Family.\" However, it has also been shared with various organizations inGotham City, though mainly sporting teams. The title has also been used for severalBatmantitles and media products.",
+    "category": "\nTeams\n ",
+    "details": {
+      "organization_type": "",
+      "alignment": "neutral",
+      "founded": "",
+      "leader": "",
+      "headquarters": "",
+      "members": [
+        "batman"
+      ],
+      "enemies": [],
+      "allies": [],
+      "activities": [],
+      "resources": [],
+      "status": "active"
+    },
+    "aliases": [],
+    "notable_operations": [],
+    "source_file": "batman_organizations_COMPLETE.json"
+  }
+]
