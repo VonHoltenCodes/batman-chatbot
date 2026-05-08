@@ -5,13 +5,16 @@ Flask application for the Batman Database Chatbot
 CLI Terminal Aesthetic with atomic green styling
 """
 
-import json
+import os
+import re
+import sys
 import uuid
 from flask import Flask, render_template, request, jsonify, session
 from datetime import datetime
 
 import batman_config as cfg
 from chatbot.core.batman_chatbot import BatmanChatbot, BatmanResponse
+from chatbot.sessions import SessionStore, ConversationSession
 
 app = Flask(__name__)
 app.config['SECRET_KEY'] = cfg.FLASK_SECRET_KEY
@@ -20,98 +23,23 @@ app.config['SECRET_KEY'] = cfg.FLASK_SECRET_KEY
 chatbot = None
 database_stats = {}
 
-# Session management for conversation state
-session_store = {}
+# Persistent session store (SQLite)
+session_store = SessionStore(cfg.SESSION_DB_PATH, ttl_seconds=cfg.SESSION_TTL_SECONDS)
 
-class ConversationSession:
-    """Manages conversation state for numbered selections and context."""
-    
-    def __init__(self, session_id: str):
-        self.session_id = session_id
-        self.last_numbered_options = []
-        self.conversation_history = []
-        self.last_mentioned_entity = None
-        self.last_query_context = None
-        self.created_at = datetime.now()
-    
-    def store_numbered_options(self, options: list, query: str):
-        """Store the last numbered options for selection handling."""
-        self.last_numbered_options = options
-        self.conversation_history.append({
-            'type': 'numbered_options',
-            'query': query,
-            'options': options,
-            'timestamp': datetime.now()
-        })
-    
-    def get_option_by_number(self, number: int):
-        """Get the option corresponding to a number selection."""
-        if 1 <= number <= len(self.last_numbered_options):
-            return self.last_numbered_options[number - 1]
-        return None
-    
-    def clear_numbered_options(self):
-        """Clear stored numbered options."""
-        self.last_numbered_options = []
-    
-    def add_to_history(self, query: str, response: str, entity_name: str = None):
-        """Add query-response pair to conversation history."""
-        self.conversation_history.append({
-            'type': 'qa_pair',
-            'query': query,
-            'response': response,
-            'entity_name': entity_name,
-            'timestamp': datetime.now()
-        })
-        
-        # Track the last mentioned entity for context awareness
-        if entity_name:
-            self.last_mentioned_entity = entity_name
-            self.last_query_context = query
-    
-    def get_last_mentioned_entity(self):
-        """Get the last mentioned entity for pronoun resolution."""
-        return self.last_mentioned_entity
-    
-    def resolve_pronouns(self, query: str):
-        """Resolve pronouns like 'it', 'them' to the last mentioned entity."""
-        if not self.last_mentioned_entity:
-            return query
-        
-        query_lower = query.lower()
-        pronoun_patterns = [
-            (r'\bit\b', self.last_mentioned_entity),
-            (r'\bthat\b', self.last_mentioned_entity),
-            (r'\bthis\b', self.last_mentioned_entity)
-        ]
-        
-        resolved_query = query
-        for pattern, replacement in pronoun_patterns:
-            if re.search(pattern, query_lower):
-                resolved_query = re.sub(pattern, replacement, resolved_query, flags=re.IGNORECASE)
-                break
-        
-        return resolved_query
 
-def get_or_create_session():
+def get_or_create_session() -> ConversationSession:
     """Get existing session or create new one."""
     if 'session_id' not in session:
         session['session_id'] = str(uuid.uuid4())
-    
-    session_id = session['session_id']
-    if session_id not in session_store:
-        session_store[session_id] = ConversationSession(session_id)
-    
-    return session_store[session_id]
+    return session_store.get_or_create(session['session_id'])
 
 def initialize_chatbot():
     """Initialize the Batman chatbot and gather database stats."""
     global chatbot, database_stats
     
     try:
-        db_path = os.path.join(os.path.dirname(__file__), 'database', 'batman_universe.db')
-        chatbot = BatmanChatbot(db_path)
-        
+        chatbot = BatmanChatbot(str(cfg.DB_PATH))
+
         # Gather database statistics
         database_stats = {
             'characters': 685,
@@ -175,20 +103,20 @@ def chat():
                 # Ensure we have a working chatbot instance
                 if not chatbot or not hasattr(chatbot, 'conversation_intelligence') or not chatbot.conversation_intelligence:
                     print("🔧 Reinitializing chatbot for better performance...")
-                    db_path = os.path.join(os.path.dirname(__file__), 'database', 'batman_universe.db')
-                    chatbot = BatmanChatbot(db_path)
+                    chatbot = BatmanChatbot(str(cfg.DB_PATH))
                 
                 # Get entity info directly by name instead of processing as new query
                 result = chatbot.get_entity_info_direct(selected_option)
                 
                 # Add to conversation history with entity tracking
                 conv_session.add_to_history(f"Selection: {number} ({selected_name})", result.answer, entity_name=selected_name)
-                
+                session_store.save(conv_session)
+
                 # Format response
                 response_text = result.answer
                 if len(response_text) > 10000:
                     response_text = response_text[:9997] + "..."
-                
+
                 return jsonify({
                     'query': f"Selection {number}: {selected_name}",
                     'response': response_text,
@@ -208,8 +136,7 @@ def chat():
         # Ensure we have a working chatbot instance
         if not chatbot or not hasattr(chatbot, 'conversation_intelligence') or not chatbot.conversation_intelligence:
             print("🔧 Reinitializing chatbot for better performance...")
-            db_path = os.path.join(os.path.dirname(__file__), 'database', 'batman_universe.db')
-            chatbot = BatmanChatbot(db_path)
+            chatbot = BatmanChatbot(str(cfg.DB_PATH))
         
         # Process regular query through Batman chatbot
         result = chatbot.process_query(query)
@@ -222,7 +149,6 @@ def chat():
         entity_name = None
         if result.source_entities and len(result.source_entities) > 0:
             # Try to extract clean entity name from response or source entities
-            import re
             if hasattr(result, 'answer') and "**" in result.answer:
                 # Extract from formatted response like "**WEAPONS ANALYSIS - Batmobile**"
                 entity_match = re.search(r'\*\*[^-]+-\s*(.+?)\*\*', result.answer)
@@ -264,7 +190,8 @@ def chat():
         # Add to conversation history with entity tracking
         print(f"🔍 DEBUG: Extracted entity_name: '{entity_name}' from query: '{query}'")
         conv_session.add_to_history(query, result.answer, entity_name=entity_name)
-        
+        session_store.save(conv_session)
+
         # Format response for terminal display
         response_text = result.answer
         if len(response_text) > 10000:
@@ -291,17 +218,12 @@ def chat():
 @app.route('/api/session/new', methods=['POST'])
 def new_session():
     """Create a new conversation session."""
-    # Clear current session
     if 'session_id' in session:
-        old_session_id = session['session_id']
-        if old_session_id in session_store:
-            del session_store[old_session_id]
-    
-    # Create new session
+        session_store.delete(session['session_id'])
+
     session['session_id'] = str(uuid.uuid4())
-    new_session_obj = ConversationSession(session['session_id'])
-    session_store[session['session_id']] = new_session_obj
-    
+    session_store.get_or_create(session['session_id'])
+
     return jsonify({
         'message': 'New conversation session started',
         'session_id': session['session_id'],
@@ -315,7 +237,7 @@ def session_status():
     
     return jsonify({
         'session_id': conv_session.session_id,
-        'created_at': conv_session.created_at.strftime('%H:%M:%S'),
+        'created_at': conv_session.created_at,
         'conversation_length': len(conv_session.conversation_history),
         'has_numbered_options': bool(conv_session.last_numbered_options),
         'numbered_options_count': len(conv_session.last_numbered_options)
