@@ -1,4 +1,4 @@
-.PHONY: help install rebuild rebuild-all enrich enrich-wikipedia serve test fmt clean
+.PHONY: help install rebuild rebuild-all enrich enrich-wikipedia enrich-comic-vine serve test fmt clean
 
 PY ?= python3
 
@@ -7,8 +7,9 @@ help:
 	@echo "  install      Install Python deps from requirements.txt"
 	@echo "  rebuild      Re-import existing JSON into SQLite"
 	@echo "  rebuild-all  Full pipeline: scrape + merge + import + embed (slow)"
-	@echo "  enrich       Run all source enrichers (Wikipedia, Comic Vine, ...)"
-	@echo "  enrich-wikipedia  Only run Wikipedia enricher"
+	@echo "  enrich       Run all source enrichers (Wikipedia, Comic Vine)"
+	@echo "  enrich-wikipedia    Wikipedia only (fast)"
+	@echo "  enrich-comic-vine   Comic Vine only (slow — 200/hr API limit, ~3.5h for full DB)"
 	@echo "  serve        Run the Flask web UI on :5001"
 	@echo "  test         Run pytest suite"
 	@echo "  fmt          Run ruff check + format (best-effort)"
@@ -23,10 +24,16 @@ rebuild:
 rebuild-all:
 	$(PY) scripts/rebuild.py --stages all
 
-enrich: enrich-wikipedia
+enrich: enrich-wikipedia enrich-comic-vine
 
 enrich-wikipedia:
 	$(PY) -m data_processor.enrichers.wikipedia
+
+# Throttled to 200/hr — full 685-character run takes ~3.5 hours.
+# Use `make enrich-comic-vine LIMIT=50` to process the first 50 instead.
+LIMIT ?=
+enrich-comic-vine:
+	$(PY) -m data_processor.enrichers.comic_vine $(if $(LIMIT),--limit $(LIMIT))
 
 serve:
 	$(PY) start_batman.py
