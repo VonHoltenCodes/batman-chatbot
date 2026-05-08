@@ -1,4 +1,4 @@
-.PHONY: help install rebuild rebuild-all serve test fmt clean
+.PHONY: help install rebuild rebuild-all enrich enrich-wikipedia serve test fmt clean
 
 PY ?= python3
 
@@ -7,6 +7,8 @@ help:
 	@echo "  install      Install Python deps from requirements.txt"
 	@echo "  rebuild      Re-import existing JSON into SQLite"
 	@echo "  rebuild-all  Full pipeline: scrape + merge + import + embed (slow)"
+	@echo "  enrich       Run all source enrichers (Wikipedia, Comic Vine, ...)"
+	@echo "  enrich-wikipedia  Only run Wikipedia enricher"
 	@echo "  serve        Run the Flask web UI on :5001"
 	@echo "  test         Run pytest suite"
 	@echo "  fmt          Run ruff check + format (best-effort)"
@@ -20,6 +22,11 @@ rebuild:
 
 rebuild-all:
 	$(PY) scripts/rebuild.py --stages all
+
+enrich: enrich-wikipedia
+
+enrich-wikipedia:
+	$(PY) -m data_processor.enrichers.wikipedia
 
 serve:
 	$(PY) start_batman.py
