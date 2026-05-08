@@ -47,12 +47,12 @@ Thumbs.db
 comprehensive_test_results_*.json
 systematic_fixes_test_results_*.json
 
-# Temporary files
+# Temporary files (root-level only — don't ignore tests/ package)
 cookies.txt
-debug_*.py
-test_*.py
-final_issue*.py
-simple_test.py
+/debug_*.py
+/test_*.py
+/final_issue*.py
+/simple_test.py
 
 # Large data files (keep master database, exclude partials)
 scraper/data/batman_*_partial_*.json
