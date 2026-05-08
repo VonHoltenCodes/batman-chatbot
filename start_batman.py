@@ -33,9 +33,9 @@ if __name__ == '__main__':
     print("🦇 BATMAN CHATBOT - PRODUCTION LAUNCHER 🦇")
     print("=" * 50)
     
-    # Change to correct directory
-    os.chdir('/home/traxx/batman_chatbot')
-    
+    # Always run from the repo root so relative resources resolve.
+    os.chdir(os.path.dirname(os.path.abspath(__file__)))
+
     # Find free port
     try:
         port = find_free_port(5001)

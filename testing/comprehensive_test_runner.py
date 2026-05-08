@@ -13,16 +13,16 @@ import time
 from datetime import datetime
 from typing import Dict, List, Tuple
 
-# Add chatbot core to path
-sys.path.append(os.path.join(os.path.dirname(__file__), '..', 'chatbot'))
-from core.batman_chatbot import BatmanChatbot, BatmanResponse
+# Make repo root importable when this script is run directly.
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+from chatbot.core.batman_chatbot import BatmanChatbot, BatmanResponse
 
 class ComprehensiveTestRunner:
     """The ultimate 100-question test runner for Batman chatbot."""
-    
+
     def __init__(self):
         """Initialize the comprehensive test runner."""
-        self.chatbot = BatmanChatbot("/home/traxx/batman_chatbot/database/batman_universe.db")
+        self.chatbot = BatmanChatbot()
         self.test_questions = self._load_all_test_questions()
         self.results = []
         

@@ -7,15 +7,11 @@ The ultimate Batman universe expert chatbot powered by 1,056 entities.
 """
 
 import os
-import sys
 import sqlite3
 import re
 from typing import Dict, List, Any, Optional, Tuple
 from dataclasses import dataclass
 import json
-
-# Add parent directory to path for imports
-sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 # Import advanced query processor, response generator, and conversation intelligence
 from .query_processor import AdvancedQueryProcessor
@@ -45,8 +41,11 @@ class BatmanChatbot:
     - Batman expert personality
     """
     
-    def __init__(self, db_path: str = "../database/batman_universe.db"):
+    def __init__(self, db_path: Optional[str] = None):
         """Initialize the Batman chatbot."""
+        if db_path is None:
+            import batman_config as cfg
+            db_path = str(cfg.DB_PATH)
         self.db_path = os.path.abspath(db_path)
         self.conn = None
         self.conversation_history = []

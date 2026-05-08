@@ -5,19 +5,16 @@ Flask application for the Batman Database Chatbot
 CLI Terminal Aesthetic with atomic green styling
 """
 
-import os
-import sys
 import json
 import uuid
 from flask import Flask, render_template, request, jsonify, session
 from datetime import datetime
 
-# Add chatbot core to path
-sys.path.append(os.path.join(os.path.dirname(__file__), 'chatbot'))
-from core.batman_chatbot import BatmanChatbot, BatmanResponse
+import batman_config as cfg
+from chatbot.core.batman_chatbot import BatmanChatbot, BatmanResponse
 
 app = Flask(__name__)
-app.config['SECRET_KEY'] = 'batcave_secure_key_2025'
+app.config['SECRET_KEY'] = cfg.FLASK_SECRET_KEY
 
 # Initialize Batman Chatbot
 chatbot = None
