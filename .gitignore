@@ -22,6 +22,9 @@ instance/
 
 # Database
 *.db-journal
+database/sessions.db
+database/sessions.db-*
+database/chroma/
 
 # Logs
 *.log
