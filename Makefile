@@ -1,4 +1,4 @@
-.PHONY: help install rebuild rebuild-all enrich enrich-wikipedia enrich-comic-vine serve test fmt clean
+.PHONY: help install rebuild rebuild-all enrich enrich-wikipedia enrich-comic-vine embed serve test fmt clean
 
 PY ?= python3
 
@@ -10,6 +10,7 @@ help:
 	@echo "  enrich       Run all source enrichers (Wikipedia, Comic Vine)"
 	@echo "  enrich-wikipedia    Wikipedia only (fast)"
 	@echo "  enrich-comic-vine   Comic Vine only (slow — 200/hr API limit, ~3.5h for full DB)"
+	@echo "  embed        (Re)build the ChromaDB embeddings index (~40s on CPU)"
 	@echo "  serve        Run the Flask web UI on :5001"
 	@echo "  test         Run pytest suite"
 	@echo "  fmt          Run ruff check + format (best-effort)"
@@ -34,6 +35,9 @@ enrich-wikipedia:
 LIMIT ?=
 enrich-comic-vine:
 	$(PY) -m data_processor.enrichers.comic_vine $(if $(LIMIT),--limit $(LIMIT))
+
+embed:
+	$(PY) scripts/build_embeddings.py --rebuild
 
 serve:
 	$(PY) start_batman.py

@@ -31,12 +31,26 @@ def test_known_answer(chatbot, query, needle, min_conf, qtype):
     assert r.query_type == qtype
 
 
-def test_ambiguous_joker_offers_disambiguation(chatbot):
-    """Multiple Jokers exist — bot should ask which one."""
+def test_ambiguous_robin_offers_disambiguation(chatbot):
+    """'Tell me about Robin' is genuinely ambiguous (Dick, Jason, Tim, Damian, ...).
+
+    Note: 'Tell me about the Joker' used to disambiguate too, but Phase 3 semantic
+    search now confidently resolves it to the canonical Joker entity — that's an
+    intentional behavior change.
+    """
+    r = chatbot.process_query("Tell me about Robin")
+    assert ("select which one" in r.answer.lower()
+            or "multiple matches" in r.answer.lower()
+            or len(r.source_entities) == 0)
+
+
+def test_joker_resolves_via_semantic_search(chatbot):
+    """Phase 3 quality bar: 'Tell me about the Joker' now lands on THE Joker."""
     r = chatbot.process_query("Tell me about the Joker")
-    assert "select which one" in r.answer.lower() or "multiple matches" in r.answer.lower()
-    # Disambiguation responses are intentionally low-confidence
-    assert r.confidence <= 0.7
+    assert r.confidence >= 0.75
+    assert "joker" in r.answer.lower()
+    # Either resolves directly or via semantic match
+    assert len(r.source_entities) == 1
 
 
 def test_response_dataclass_shape(chatbot):

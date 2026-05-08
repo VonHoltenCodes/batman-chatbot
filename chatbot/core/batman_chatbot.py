@@ -20,6 +20,7 @@ from .conversation_intelligence import ConversationIntelligence
 from .intelligent_search import IntelligentSearchEngine
 from .relationship_processor import RelationshipProcessor
 from .enrichment import attach as _attach_enrichment
+from .semantic_search import SemanticSearch
 
 @dataclass
 class BatmanResponse:
@@ -110,9 +111,75 @@ class BatmanChatbot:
             return False
     
     def process_query(self, user_input: str) -> BatmanResponse:
-        """Main query processing — wraps the internal pipeline + enrichment footer."""
+        """Main query processing — wraps internal pipeline + semantic fallback + footer."""
         response = self._process_query_internal(user_input)
+        response = self._with_semantic_fallback(user_input, response)
         return self._with_enrichment_footer(response)
+
+    # Trust the keyword pipeline above this confidence — don't second-guess it.
+    _KEYWORD_TRUST_THRESHOLD = 0.85
+    # Accept a semantic hit only when this confident on cosine similarity.
+    _SEMANTIC_FALLBACK_MIN_SCORE = 0.78
+    _WEAK_RESPONSE_MARKERS = (
+        "i don't have information",
+        "could you be more specific",
+        "no batman entities found",
+        "no description available",
+    )
+
+    def _is_weak_response(self, response: BatmanResponse) -> bool:
+        if response.confidence == 0.0:
+            return True
+        lower = response.answer.lower()
+        return any(marker in lower for marker in self._WEAK_RESPONSE_MARKERS)
+
+    def _with_semantic_fallback(self, query: str, response: BatmanResponse) -> BatmanResponse:
+        """Try the embedding index when keyword/fuzzy results look uncertain.
+
+        Conditions for using semantic instead:
+          (a) existing pipeline produced a "weak" response, OR
+          (b) existing confidence < KEYWORD_TRUST_THRESHOLD AND semantic
+              top-hit substantially stronger than existing confidence.
+        """
+        weak = self._is_weak_response(response)
+        keyword_uncertain = response.confidence < self._KEYWORD_TRUST_THRESHOLD
+
+        if not (weak or keyword_uncertain):
+            return response
+
+        try:
+            search = SemanticSearch.get()
+        except Exception:
+            return response
+        if not search.available:
+            return response
+
+        hits = search.search(query, top_k=3)
+        if not hits or hits[0].score < self._SEMANTIC_FALLBACK_MIN_SCORE:
+            return response
+
+        top = hits[0]
+        # When keyword path returned *something*, only override if semantic
+        # is meaningfully better OR the keyword answer is weak.
+        if not weak and top.score < response.confidence + 0.10:
+            return response
+
+        try:
+            new_response = self.get_entity_info_direct(top.name)
+        except Exception:
+            return response
+
+        if not new_response or self._is_weak_response(new_response):
+            return response
+
+        prefix = f"🔎 (Semantic match for: '{query}' → {top.name.replace('_', ' ')}, similarity {top.score:.2f})\n\n"
+        return BatmanResponse(
+            answer=prefix + new_response.answer,
+            confidence=min(top.score, 0.85),
+            source_entities=new_response.source_entities,
+            query_type=new_response.query_type or "semantic_lookup",
+            suggestions=new_response.suggestions,
+        )
 
     def _with_enrichment_footer(self, response: BatmanResponse) -> BatmanResponse:
         """Append a Wikipedia / Comic Vine footer to responses that name a single entity."""

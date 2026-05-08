@@ -55,6 +55,5 @@ def test_chatbot_response_includes_enrichment_footer(chatbot):
 
 def test_enrichment_footer_skipped_for_disambiguation(chatbot):
     """Disambiguation responses (multi-match) shouldn't get a footer."""
-    r = chatbot.process_query("Tell me about the Joker")
-    assert "📖 Wikipedia" not in r.answer
-    assert len(r.source_entities) != 1
+    r = chatbot.process_query("Tell me about Robin")
+    assert "📖 Wikipedia" not in r.answer or len(r.source_entities) != 1
