@@ -11,12 +11,17 @@ import sqlite3
 import os
 import sys
 from datetime import datetime
-from typing import Dict, List, Any
+from typing import Dict, List, Any, Optional
+
+# Make repo root importable when this script is run directly.
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+import batman_config as cfg
+
 
 class BatmanDatabaseImporter:
-    def __init__(self, db_path: str = "batman_universe.db"):
+    def __init__(self, db_path: Optional[str] = None):
         """Initialize the database importer."""
-        self.db_path = db_path
+        self.db_path = db_path or str(cfg.DB_PATH)
         self.conn = None
         self.stats = {
             'characters': 0,
@@ -59,7 +64,7 @@ class BatmanDatabaseImporter:
     def load_master_data(self) -> Dict:
         """Load the master database JSON file."""
         try:
-            master_path = "../data_processor/master_database/batman_master_database.json"
+            master_path = str(cfg.MASTER_DB_DIR / "batman_master_database.json")
             with open(master_path, 'r', encoding='utf-8') as f:
                 data = json.load(f)
             print(f"✅ Loaded master database: {data['metadata']['total_entities']} entities")
@@ -280,7 +285,7 @@ class BatmanDatabaseImporter:
         """Import cross-reference relationships."""
         try:
             # Load cross-references file
-            cross_ref_path = "../data_processor/master_database/batman_cross_references.json"
+            cross_ref_path = str(cfg.MASTER_DB_DIR / "batman_cross_references.json")
             with open(cross_ref_path, 'r', encoding='utf-8') as f:
                 cross_refs = json.load(f)
             
