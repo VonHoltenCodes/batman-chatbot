@@ -303,6 +303,25 @@ CREATE TRIGGER vehicles_fts_delete AFTER DELETE ON vehicles BEGIN
     DELETE FROM vehicles_fts WHERE id = old.id;
 END;
 
+-- ========================================
+-- CROSS-SOURCE ENRICHMENT (Phase 2)
+-- ========================================
+-- EAV table holding per-source augmentations (wikipedia summary, comic_vine
+-- image_url, dc_wiki description, etc.) without touching the original
+-- fandom-sourced entity rows. Lookups go through (entity_id, entity_type).
+CREATE TABLE entity_enrichment (
+    entity_id   TEXT NOT NULL,
+    entity_type TEXT NOT NULL CHECK (entity_type IN
+        ('character', 'vehicle', 'location', 'storyline', 'organization')),
+    source      TEXT NOT NULL,
+    field       TEXT NOT NULL,
+    value       TEXT,
+    fetched_at  DATETIME DEFAULT CURRENT_TIMESTAMP,
+    PRIMARY KEY (entity_id, entity_type, source, field)
+);
+CREATE INDEX idx_enrich_entity ON entity_enrichment(entity_id, entity_type);
+CREATE INDEX idx_enrich_source ON entity_enrichment(source);
+
 -- Database metadata for tracking import status
 CREATE TABLE database_metadata (
     key TEXT PRIMARY KEY,

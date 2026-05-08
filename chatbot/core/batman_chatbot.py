@@ -7,15 +7,11 @@ The ultimate Batman universe expert chatbot powered by 1,056 entities.
 """
 
 import os
-import sys
 import sqlite3
 import re
 from typing import Dict, List, Any, Optional, Tuple
 from dataclasses import dataclass
 import json
-
-# Add parent directory to path for imports
-sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 # Import advanced query processor, response generator, and conversation intelligence
 from .query_processor import AdvancedQueryProcessor
@@ -23,6 +19,8 @@ from .response_generator import BatmanResponseGenerator, ResponseContext
 from .conversation_intelligence import ConversationIntelligence
 from .intelligent_search import IntelligentSearchEngine
 from .relationship_processor import RelationshipProcessor
+from .enrichment import attach as _attach_enrichment
+from .semantic_search import SemanticSearch
 
 @dataclass
 class BatmanResponse:
@@ -45,8 +43,11 @@ class BatmanChatbot:
     - Batman expert personality
     """
     
-    def __init__(self, db_path: str = "../database/batman_universe.db"):
+    def __init__(self, db_path: Optional[str] = None):
         """Initialize the Batman chatbot."""
+        if db_path is None:
+            import batman_config as cfg
+            db_path = str(cfg.DB_PATH)
         self.db_path = os.path.abspath(db_path)
         self.conn = None
         self.conversation_history = []
@@ -110,12 +111,135 @@ class BatmanChatbot:
             return False
     
     def process_query(self, user_input: str) -> BatmanResponse:
+        """Main query processing — wraps internal pipeline + semantic fallback + footer."""
+        response = self._process_query_internal(user_input)
+        response = self._with_semantic_fallback(user_input, response)
+        return self._with_enrichment_footer(response)
+
+    # Trust the keyword pipeline above this confidence — don't second-guess it.
+    _KEYWORD_TRUST_THRESHOLD = 0.85
+    # Accept a semantic hit only when this confident on cosine similarity.
+    _SEMANTIC_FALLBACK_MIN_SCORE = 0.78
+    _WEAK_RESPONSE_MARKERS = (
+        "i don't have information",
+        "could you be more specific",
+        "no batman entities found",
+        "no description available",
+    )
+
+    def _is_weak_response(self, response: BatmanResponse) -> bool:
+        if response.confidence == 0.0:
+            return True
+        lower = response.answer.lower()
+        return any(marker in lower for marker in self._WEAK_RESPONSE_MARKERS)
+
+    def _with_semantic_fallback(self, query: str, response: BatmanResponse) -> BatmanResponse:
+        """Try the embedding index when keyword/fuzzy results look uncertain.
+
+        Conditions for using semantic instead:
+          (a) existing pipeline produced a "weak" response, OR
+          (b) existing confidence < KEYWORD_TRUST_THRESHOLD AND semantic
+              top-hit substantially stronger than existing confidence.
+        """
+        weak = self._is_weak_response(response)
+        keyword_uncertain = response.confidence < self._KEYWORD_TRUST_THRESHOLD
+
+        if not (weak or keyword_uncertain):
+            return response
+
+        try:
+            search = SemanticSearch.get()
+        except Exception:
+            return response
+        if not search.available:
+            return response
+
+        hits = search.search(query, top_k=3)
+        if not hits or hits[0].score < self._SEMANTIC_FALLBACK_MIN_SCORE:
+            return response
+
+        top = hits[0]
+        # When keyword path returned *something*, only override if semantic
+        # is meaningfully better OR the keyword answer is weak.
+        if not weak and top.score < response.confidence + 0.10:
+            return response
+
+        try:
+            new_response = self.get_entity_info_direct(top.name)
+        except Exception:
+            return response
+
+        if not new_response or self._is_weak_response(new_response):
+            return response
+
+        prefix = f"🔎 (Semantic match for: '{query}' → {top.name.replace('_', ' ')}, similarity {top.score:.2f})\n\n"
+        return BatmanResponse(
+            answer=prefix + new_response.answer,
+            confidence=min(top.score, 0.85),
+            source_entities=new_response.source_entities,
+            query_type=new_response.query_type or "semantic_lookup",
+            suggestions=new_response.suggestions,
+        )
+
+    def _with_enrichment_footer(self, response: BatmanResponse) -> BatmanResponse:
+        """Append a Wikipedia / Comic Vine footer to responses that name a single entity."""
+        if not self.conn or not response.source_entities or len(response.source_entities) != 1:
+            return response
+        entity_id = response.source_entities[0]
+        # Probe across entity types to find what kind of entity this id refers to.
+        rows = self.conn.execute(
+            """
+            SELECT entity_type, source, field, value
+            FROM entity_enrichment
+            WHERE entity_id = ? AND field != '_status'
+            """,
+            (entity_id,),
+        ).fetchall()
+        if not rows:
+            return response
+
+        sources: dict[str, dict[str, str]] = {}
+        for r in rows:
+            try:
+                _et, src, field, value = r["entity_type"], r["source"], r["field"], r["value"]
+            except (TypeError, IndexError):
+                _et, src, field, value = r[0], r[1], r[2], r[3]
+            if value is None:
+                continue
+            sources.setdefault(src, {})[field] = value
+
+        wp = sources.get("wikipedia", {})
+        cv = sources.get("comic_vine", {})
+
+        footer_lines = []
+        if cv.get("real_name"):
+            footer_lines.append(f"🆔 Real name (Comic Vine): {cv['real_name']}")
+        if cv.get("first_appearance"):
+            footer_lines.append(f"📅 First appearance: {cv['first_appearance']}")
+        if wp.get("url"):
+            footer_lines.append(f"📖 Wikipedia: {wp['url']}")
+        image = cv.get("image_url") or wp.get("image_url")
+        if image:
+            footer_lines.append(f"🖼️  Image: {image}")
+
+        if not footer_lines:
+            return response
+
+        return BatmanResponse(
+            answer=response.answer.rstrip() + "\n\n" + "\n".join(footer_lines),
+            confidence=response.confidence,
+            source_entities=response.source_entities,
+            query_type=response.query_type,
+            suggestions=response.suggestions,
+        )
+
+    def _process_query_internal(self, user_input: str) -> BatmanResponse:
         """
         Main query processing function.
-        
+
         Args:
             user_input: User's question or query
-            
+
         Returns:
             BatmanResponse with answer and metadata
         """
@@ -823,26 +947,26 @@ class BatmanChatbot:
             
             # Try exact match first
             cursor.execute("""
-                SELECT * FROM characters 
-                WHERE LOWER(name) = LOWER(?) 
+                SELECT * FROM characters
+                WHERE LOWER(name) = LOWER(?)
                 LIMIT 1
             """, (name,))
-            
+
             result = cursor.fetchone()
             if result:
-                return dict(result)
-            
+                return _attach_enrichment(dict(result), self.conn, "character")
+
             # Try partial match (for "the Joker" -> "Joker")
             cursor.execute("""
-                SELECT * FROM characters 
-                WHERE LOWER(name) LIKE LOWER(?) 
+                SELECT * FROM characters
+                WHERE LOWER(name) LIKE LOWER(?)
                 LIMIT 1
             """, (f"%{name.replace('the ', '')}%",))
-            
+
             result = cursor.fetchone()
             if result:
-                return dict(result)
-            
+                return _attach_enrichment(dict(result), self.conn, "character")
+
             # Try alias match
             cursor.execute("""
                 SELECT c.* FROM characters c
@@ -850,11 +974,11 @@ class BatmanChatbot:
                 WHERE LOWER(ca.alias) = LOWER(?)
                 LIMIT 1
             """, (name,))
-            
+
             result = cursor.fetchone()
             if result:
-                return dict(result)
-            
+                return _attach_enrichment(dict(result), self.conn, "character")
+
             return None
             
         except Exception as e:
@@ -865,27 +989,27 @@ class BatmanChatbot:
         """Find vehicle by name."""
         try:
             cursor = self.conn.cursor()
-            
+
             # Try exact match
             cursor.execute("""
-                SELECT * FROM vehicles 
-                WHERE LOWER(name) = LOWER(?) 
+                SELECT * FROM vehicles
+                WHERE LOWER(name) = LOWER(?)
                 LIMIT 1
             """, (name,))
-            
+
             result = cursor.fetchone()
             if result:
-                return dict(result)
-            
+                return _attach_enrichment(dict(result), self.conn, "vehicle")
+
             # Try partial match (for "the Batmobile" -> "Batmobile")
             cursor.execute("""
-                SELECT * FROM vehicles 
-                WHERE LOWER(name) LIKE LOWER(?) 
+                SELECT * FROM vehicles
+                WHERE LOWER(name) LIKE LOWER(?)
                 LIMIT 1
             """, (f"%{name.replace('the ', '')}%",))
-            
+
             result = cursor.fetchone()
-            return dict(result) if result else None
+            return _attach_enrichment(dict(result), self.conn, "vehicle") if result else None
             
         except Exception as e:
             print(f"Error finding vehicle: {e}")
@@ -895,27 +1019,27 @@ class BatmanChatbot:
         """Find location by name."""
         try:
             cursor = self.conn.cursor()
-            
+
             # Try exact match
             cursor.execute("""
-                SELECT * FROM locations 
-                WHERE LOWER(name) = LOWER(?) 
+                SELECT * FROM locations
+                WHERE LOWER(name) = LOWER(?)
                 LIMIT 1
             """, (name,))
-            
+
             result = cursor.fetchone()
             if result:
-                return dict(result)
-            
+                return _attach_enrichment(dict(result), self.conn, "location")
+
             # Try partial match
             cursor.execute("""
-                SELECT * FROM locations 
-                WHERE LOWER(name) LIKE LOWER(?) 
+                SELECT * FROM locations
+                WHERE LOWER(name) LIKE LOWER(?)
                 LIMIT 1
             """, (f"%{name.replace('the ', '')}%",))
-            
+
             result = cursor.fetchone()
-            return dict(result) if result else None
+            return _attach_enrichment(dict(result), self.conn, "location") if result else None
             
         except Exception as e:
             print(f"Error finding location: {e}")
